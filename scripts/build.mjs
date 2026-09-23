@@ -179,6 +179,52 @@ function applyTokens(html, ctx) {
   );
 }
 
+function relativeUrl(fromPage, absolutePath) {
+  const hashAt = absolutePath.indexOf("#");
+  const hash = hashAt >= 0 ? absolutePath.slice(hashAt) : "";
+  const target = hashAt >= 0 ? absolutePath.slice(0, hashAt) : absolutePath;
+  const fromDir = fromPage.endsWith("/") ? fromPage : fromPage.replace(/[^/]+$/, "");
+  const fromParts = fromDir.split("/").filter(Boolean);
+  const toParts = target.split("/").filter(Boolean);
+  let shared = 0;
+  while (
+    shared < fromParts.length &&
+    shared < toParts.length &&
+    fromParts[shared] === toParts[shared]
+  ) {
+    shared += 1;
+  }
+  const up = fromParts.length - shared;
+  const down = toParts.slice(shared).join("/");
+  let relative = `${"../".repeat(up)}${down}`;
+  if (!relative) relative = "./";
+  if ((target === "/" || target.endsWith("/")) && !relative.endsWith("/")) relative += "/";
+  return relative + hash;
+}
+
+function relativizeHtml(html, fromPage) {
+  return html.replace(/(\s(?:href|src)=")(\/(?!\/)[^"]*)(")/g, (_, start, url, end) => {
+    return `${start}${relativeUrl(fromPage, url)}${end}`;
+  });
+}
+
+function resolveHref(fromPage, href) {
+  const pathOnly = href.split("#")[0];
+  if (!pathOnly || pathOnly.startsWith("#")) return fromPage.endsWith("/") ? fromPage : `${fromPage.replace(/[^/]+$/, "")}`;
+  if (pathOnly.startsWith("/") && !pathOnly.startsWith("//")) return pathOnly;
+  if (/^[a-z][a-z0-9+.-]*:/i.test(pathOnly)) return "";
+  const fromDir = fromPage.endsWith("/") ? fromPage : fromPage.replace(/[^/]+$/, "");
+  const stack = fromDir.split("/").filter(Boolean);
+  for (const part of pathOnly.split("/")) {
+    if (!part || part === ".") continue;
+    if (part === "..") stack.pop();
+    else stack.push(part);
+  }
+  if (!stack.length) return "/";
+  const resolved = `/${stack.join("/")}`;
+  return pathOnly.endsWith("/") ? `${resolved}/` : resolved;
+}
+
 function render(templateName, ctx) {
   const file = path.join(templatesDir, templateName);
   const html = fs.readFileSync(file, "utf8");
@@ -607,6 +653,7 @@ function baseCtx(extra) {
 }
 
 function addPage(page) {
+  page.html = relativizeHtml(page.html, page.path);
   const h1Count = (page.html.match(/<h1[\s>]/g) || []).length;
   if (h1Count !== 1) fail(`${page.path} has ${h1Count} h1 elements`);
   pages.push(page);
@@ -1065,7 +1112,7 @@ renderPage(
   { path: contactPath, reviewed: contact.reviewed, sources: [] },
 );
 
-const notFound = render(
+const notFound = relativizeHtml(render(
   "404.html",
   baseCtx({
     assetCss,
@@ -1080,7 +1127,7 @@ const notFound = render(
     showBreadcrumbs: "",
     jsonLd: jsonLd([organizationNode(site)]),
   }),
-);
+), "/404.html");
 
 if (errors.length) {
   console.error(errors.map((error) => `ERROR ${error}`).join("\n"));
@@ -1126,9 +1173,10 @@ function collectLinks(html, from) {
   let match = pattern.exec(html);
   while (match) {
     const href = match[1];
-    if (href.startsWith("/") && !href.startsWith("//")) {
-      const clean = href.split("#")[0] || "/";
-      const file = /\.(html|txt|xml|png|ico)$/.test(clean);
+    const resolved = resolveHref(from, href);
+    if (resolved.startsWith("/") && !resolved.startsWith("//")) {
+      const clean = resolved.split("#")[0] || "/";
+      const file = /\.(html|txt|xml|png|ico|css|js)$/.test(clean);
       links.push({
         from,
         to: clean.endsWith("/") || file ? clean : `${clean}/`,
