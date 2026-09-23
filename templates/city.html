@@ -1,0 +1,33 @@
+{{> shell-open}}
+<header class="page-hero" id="hero">
+  <p class="eyebrow">{{eyebrow}}</p>
+  <h1>{{h1}}</h1>
+  <p class="lead">{{summary}}</p>
+  <p class="reviewed">{{ui.reviewed}}: <time datetime="{{reviewed}}">{{reviewedDisplay}}</time></p>
+  <p class="disclaimer">{{disclaimer}}</p>
+  <p><a href="{{parentUrl}}">Prevoz iz {{parentName}}</a></p>
+</header>
+<section class="panel" id="local-facts" aria-labelledby="local-title">
+  <h2 id="local-title">{{ui.localTitle}}</h2>
+  {{{localFactsHtml}}}
+</section>
+<section class="panel" id="death-registration" aria-labelledby="death-title">
+  <h2 id="death-title">{{ui.deathTitle}}</h2>
+  <p>{{deathPlace}}</p>
+  <p>{{deathNote}}</p>
+</section>
+<section class="panel" id="mission" aria-labelledby="mission-title">
+  <h2 id="mission-title">{{ui.missionTitle}}</h2>
+  <p><a href="{{missionUrl}}" target="_blank" rel="noopener noreferrer">{{missionName}}</a></p>
+  <p>{{missionNote}}</p>
+</section>
+<section class="panel" id="nearby" aria-labelledby="nearby-title">
+  <h2 id="nearby-title">{{ui.nearbyTitle}}</h2>
+  <ul class="card-list">{{{nearbyHtml}}}</ul>
+  <h3>Odredišta</h3>
+  <ul class="card-list">{{{destinationLinksHtml}}}</ul>
+</section>
+{{> sources}}
+{{> faq}}
+{{> cta}}
+{{> shell-close}}

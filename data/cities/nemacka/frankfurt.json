@@ -1,0 +1,62 @@
+{
+  "slug": "frankfurt",
+  "parentCountry": "nemacka",
+  "nameSr": "Frankfurt",
+  "nameLocal": "Frankfurt am Main",
+  "region": "Hesen",
+  "h1": "Prevoz pokojnika iz Frankfurta u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Frankfurta u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Prevoz pokojnika iz Frankfurta u Srbiju. Smrt se prijavljuje u frankfurtskom Standesamt-u. Konzulat Srbije pokriva Hesen. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Frankfurt na Majni je u Hesenu. Smrt se prijavljuje u matičnom uredu, Standesamt, u Frankfurtu. Generalni konzulat Srbije u Frankfurtu na svom spisku navodi Hesen, Rajnland-Pfalc i Sarland. Leichenpass nije berlinski ni bavarski dokument. Drumski prevoz je u Srbiju.",
+  "uniqueFacts": [
+    "Frankfurt na Majni je u pokrajini Hesen, ne u pokrajini Berlin.",
+    "Generalni konzulat Srbije u Frankfurtu navodi Hesen, Rajnland-Pfalc i Sarland."
+  ],
+  "deathRegistration": {
+    "place": "Standesamt u Frankfurtu na Majni",
+    "note": "Izvod izdaje matični ured Frankfurta. Frankfurt na Odri nije ovaj grad i nije u Hesenu."
+  },
+  "consulateOrEmbassy": {
+    "name": "Generalni konzulat Republike Srbije u Frankfurtu",
+    "url": "https://frankfurt.mfa.gov.rs/lat",
+    "coversNote": "Spisak konzulata stavlja Hesen uz Frankfurt. Ova stranica je za Frankfurt na Majni."
+  },
+  "nearbyCitySlugs": [
+    "stutgart"
+  ],
+  "faq": [
+    {
+      "q": "Da li je Frankfurt na Odri ista stranica?",
+      "a": "Nije. Ova stranica je Frankfurt na Majni, u Hesenu, uz konzulat u Frankfurtu. Frankfurt na Odri je u Brandenburgu, a Brandenburg stoji uz Ambasadu u Berlinu. Mesto smrti određuje i matični ured i pokrajinu."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Generalni konzulat u Frankfurtu",
+      "publisher": "MSP Srbije",
+      "url": "https://frankfurt.mfa.gov.rs/lat",
+      "retrieved": "2026-09-23",
+      "note": "Sajt konzulata."
+    },
+    {
+      "title": "Spisak predstavništava u Nemačkoj",
+      "publisher": "Generalni konzulat u Frankfurtu",
+      "url": "https://frankfurt.mfa.gov.rs/lat/konzulat/konzulati",
+      "retrieved": "2026-09-23",
+      "note": "Hesen, Rajnland-Pfalc i Sarland navedeni su uz Frankfurt."
+    }
+  ],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "published",
+  "nameSrGenitive": "Frankfurta"
+}

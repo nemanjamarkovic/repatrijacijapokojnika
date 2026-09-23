@@ -1,0 +1,33 @@
+{
+  "slug": "privatnost",
+  "navLabel": "Privatnost",
+  "h1": "Politika privatnosti",
+  "seoTitle": "Politika privatnosti sajta za prevoz | {{BRAND_NAME}}",
+  "seoDescription": "Koje podatke ostavljate u upitu za prevoz pokojnika, čemu služe i ko ih prima kada obrazac bude povezan. Na sajtu nema analitičkih kolačića u ovom izdanju.",
+  "reviewed": "2026-09-23",
+  "summary": "Na sajtu nema oglasa ni analitičkog programa. Ako pošaljete upit, u njemu su ime, telefon, imejl, zemlja, grad, odredište i poruka. Ti podaci služe samo da vas kontaktiramo o prevozu. Obrazac još nije povezan na obradu, pa je poziv ili WhatsApp osnovni put.",
+  "sections": [
+    {
+      "id": "podaci",
+      "heading": "Koje podatke unosite",
+      "paragraphs": [
+        "Obrazac traži ime i prezime, telefon, imejl, zemlju smrti, grad, odredište i poruku. Ne tražimo dokumenta na sajtu i nema otpremanja fajlova. Skriveno polje služi samo da odbaci automatske poruke."
+      ]
+    },
+    {
+      "id": "obradjivac",
+      "heading": "Ko prima obrazac",
+      "paragraphs": [
+        "Adresa za prijem je još {{FORM_ENDPOINT}}. Ime obrađivača je {{FORM_PROCESSOR}}. Dok to ostanu oznake, ne šaljite obrazac kao jedini kontakt. Pozovite {{PHONE}} ili pišite na WhatsApp {{WHATSAPP}}. Imejl je {{EMAIL}}."
+      ]
+    },
+    {
+      "id": "kolacici",
+      "heading": "Kolačići",
+      "paragraphs": [
+        "Ovo izdanje ne postavlja analitičke ni marketinške kolačiće. Zato nema trake za pristanak. Ako se kasnije doda merenje posećenosti, ova stranica mora da kaže koji je program i čemu služi, pre nego što se uključi."
+      ]
+    }
+  ],
+  "status": "published"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "severna-makedonija",
+  "nameSr": "Severna Makedonija",
+  "primary": false,
+  "h1": "Prevoz pokojnika u Severnu Makedoniju",
+  "seoTitle": "Prevoz pokojnika u Severnu Makedoniju | {{BRAND_NAME}}",
+  "seoDescription": "Dostavu pokojnika u Severnu Makedoniju organizujemo pored prevoza u Srbiju. Ulaz ima svoj korak. Cenu i rok dobijate po upitu, ne sa ove strane.",
+  "reviewed": "2026-09-23",
+  "summary": "Glavno odredište je Srbija. Dostavu u Severnu Makedoniju organizujemo kada porodica to traži. Dokumenta zemlje polaska putuju sa telom. Organi Severne Makedonije mogu tražiti svoju dozvolu za unos. Početna strana ministarstva spoljnih poslova je orijentir. Ne prepisujemo obrazac koji nismo proverili. Predaja je porodici ili preduzeću koje porodica imenuje.",
+  "deliveryNotes": "Mesto kaže porodica. Prilaz vozilu proveravamo pre polaska, posebno van većih gradova.",
+  "borderNote": "Ulaz u Severnu Makedoniju nije ulaz u Srbiju. Laissez-passer zemlje polaska nije automatski i makedonska dozvola. Šta ulaz traži, kaže organ te države.",
+  "localFuneralNote": "Sahranu vodi pogrebno preduzeće koje porodica izabere. Mi ne biramo groblje i ne zamenjujemo to preduzeće.",
+  "sectionOrder": ["hero", "delivery", "border", "local-funeral", "origins", "faq", "sources", "cta"],
+  "faq": [
+    {
+      "q": "Da li je Severna Makedonija glavno odredište?",
+      "a": "Nije. Glavno odredište je Srbija. Severna Makedonija je dostava koju organizujemo kada porodica to traži, uz papire te države."
+    },
+    {
+      "q": "Gde je zvanična strana ministarstva?",
+      "a": "Početna strana ministarstva spoljnih poslova Severne Makedonije je orijentir. Dubinski obrazac ne kačimo dok adresa nije stabilna. Telefone ne prepisujemo."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministarstvo na spoljni raboti",
+      "publisher": "MSP Severne Makedonije",
+      "url": "https://mfa.gov.mk/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana ministarstva. Proveriti da li se adresa i dalje otvara."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Dokument zemlje polaska."
+    }
+  ],
+  "status": "published"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "bec",
+  "parentCountry": "austrija",
+  "nameSr": "Beč",
+  "nameLocal": "Wien",
+  "region": "Pokrajina Beč",
+  "h1": "Prevoz pokojnika iz Beča u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Beča u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Prevoz pokojnika iz Beča u Srbiju. Smrt se prijavljuje u bečkom Standesamt-u. Ambasada Srbije je u Beču. Cenu i rok dobijate po upitu za tu adresu.",
+  "reviewed": "2026-09-23",
+  "summary": "Beč je i grad i pokrajina. Smrt se prijavljuje u matičnom uredu, Standesamt, u Beču. Ambasada Srbije je u Beču i to je predstavništvo koje ovde možemo da povežemo sa ovim gradom. Za Grac, Linc i Salcburg područje ambasade nismo zatvorili, pa te stranice nisu objavljene. Prevoz je drumski, u Srbiju. Leichenpass izdaje austrijski organ, ne ambasada.",
+  "uniqueFacts": [
+    "Beč je posebna pokrajina, pa matični ured nije štajerski ni gornjoaustrijski.",
+    "Ambasada Srbije ima sedište u Beču. Za druge austrijske gradove područje nije potvrđeno na ovoj strani."
+  ],
+  "deathRegistration": {
+    "place": "Standesamt u Beču",
+    "note": "Izvod, Sterbeurkunde, izdaje bečki matični ured. Ambasada Srbije taj izvod ne izdaje."
+  },
+  "consulateOrEmbassy": {
+    "name": "Ambasada Republike Srbije u Beču",
+    "url": "https://vienna.mfa.gov.rs/",
+    "coversNote": "Sedište ambasade je u Beču. Ova stranica ne tvrdi da isti šalter pokriva Grac, Linc ili Salcburg."
+  },
+  "nearbyCitySlugs": [],
+  "faq": [
+    {
+      "q": "Da li ista stranica važi za Grac?",
+      "a": "Ne. Grac je u Štajerskoj i nema objavljenu gradsku stranicu, jer područje Ambasade Srbije van Beča nismo potvrdili. Za Grac i dalje važi državna stranica Austrije, uz oprez o pokrajini."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ambasada Republike Srbije u Beču",
+      "publisher": "MSP Srbije",
+      "url": "https://vienna.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Sajt ambasade. Telefone ne prepisujemo."
+    },
+    {
+      "title": "Ambasada u Austriji, imenik",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/lat/predstavnistva/predstavnistva-srbije-u-svetu/ambasade/ambasada-republike-srbije-u-austriji",
+      "retrieved": "2026-09-23",
+      "note": "Imenik ministarstva sa linkom ka sajtu ambasade."
+    }
+  ],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "published",
+  "nameSrGenitive": "Beča"
+}

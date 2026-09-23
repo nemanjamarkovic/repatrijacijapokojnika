@@ -1,0 +1,87 @@
+{
+  "slug": "italija",
+  "nameSr": "Italija",
+  "nameSrGenitive": "Italije",
+  "nameLocal": "Italia",
+  "h1": "Prevoz pokojnika iz Italije u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Italije u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Italije u Srbiju: dokumentacija, dozvola za transport i dostava. U praksi dozvolu daje prefektura. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Italije. Smrt se prijavljuje u opštini, u matičnoj službi, comune. Dozvolu za prevoz tela van Italije u praksi izdaje prefektura, prefettura, na čijem je području smrt nastupila. To navodimo kao uobičajen upravni korak, ne kao član zakona prepisan ovde. Dokument koji prati telo je laissez-passer, na italijanskom često passaporto mortuario. Predstavništvo Srbije tražite preko Ministarstva spoljnih poslova Srbije, jer područje po gradovima ovde nismo zatvorili. Cenu dajemo po adresama.",
+  "regionNotes": "Italija nema jednu opštinu za celu državu. Prefektura je državni organ na nivou provincije. Gradske stranice iz Italije nisu u ovom izdanju.",
+  "processNotes": "Dok ne potvrdimo koje predstavništvo Srbije pokriva konkretan italijanski grad, ne pravimo gradske stranice i ne pogađamo adresu konzulata.",
+  "keyFacts": {
+    "permitLocal": "passaporto mortuario",
+    "permitSr": "laissez-passer, dozvola za međunarodni transport",
+    "issuer": "U praksi prefettura na području smrti; potvrditi na esteri.it za taj slučaj",
+    "familyPresence": "Ovlašćenje često zamenjuje put porodice, ali prefektura može tražiti drugačije. To nije univerzalna rečenica zakona.",
+    "quoteInputs": ["opština preuzimanja u Italiji", "mesto u Srbiji", "da li je postupak pred organima otvoren"]
+  },
+  "documents": [
+    {
+      "nameLocal": "certificato di morte",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Comune",
+      "url": "",
+      "practiceVsLaw": "Opštinska matična služba izdaje izvod. Svaka opština ima svoj šalter, zato nema jednog linka za sve gradove."
+    },
+    {
+      "nameLocal": "passaporto mortuario",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Ministero degli Affari Esteri",
+      "url": "https://www.esteri.it/",
+      "practiceVsLaw": "Početna strana ministarstva je orijentir. U praksi dozvolu potpisuje prefektura, ne ambasada u Beogradu."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i italijanska opština u kojoj se telo nalazi",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga opština, prefektura ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje izvoda i dozvole prefekture",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Šta je uloga prefekture?",
+      "a": "Prefektura, prefettura, je državni organ na nivou provincije. U praksi ona izdaje dozvolu da telo izađe iz Italije. To nije isto što i izvod o smrti, koji daje opština. Za konkretan grad gledajte obaveštenje te prefekture."
+    },
+    {
+      "q": "Da li je postupak isti u celoj Italiji?",
+      "a": "Izvod daje opština smrti, a dozvolu za izlazak u praksi prefektura tog područja. Obrasci i rokovi nisu isti u svakoj provinciji. Zato nema gradskih stranica dok ne postoji proveren lokalni podatak i predstavništvo Srbije."
+    },
+    {
+      "q": "Koji dokument prati telo do Srbije?",
+      "a": "Telo prati laissez-passer, u Italiji često passaporto mortuario, i izvod o smrti. Za ulazak u Srbiju u praksi se traži i sprovodnica predstavništva Srbije. Da li je u tom slučaju obavezna, potvrđuje predstavništvo, ne ova stranica."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Opis laissez-passer dokumenta između država koje primenjuju sporazum."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Italije",
+      "publisher": "MAECI",
+      "url": "https://www.esteri.it/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana. Detalj o prefekturi proveriti za konkretan slučaj, bez nagađanja broja zakona."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Spisak predstavništava otvorite ovde. Grad u Italiji ne vezujemo uz konzulat dok područje ne piše na zvaničnoj strani."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "slovenija",
+  "nameSr": "Slovenija",
+  "nameSrGenitive": "Slovenije",
+  "nameLocal": "Slovenija",
+  "h1": "Prevoz pokojnika iz Slovenije u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Slovenije u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Slovenije u Srbiju: dokumentacija, dozvola za transport i dostava. Upis vodi upravna jedinica. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Slovenije. Upis smrti vodi upravna jedinica. Potvrda se u praksi traži kao mrliški list. Tačan naziv i šalter proverite na gov.si, jer je to početna strana države, ne naš obrazac. Dozvola za međunarodni transport je laissez-passer zemlje polaska. Slovenija i Srbija nisu ista carinska celina, pa na ulasku u Srbiju važe i srpski koraci, uključujući sprovodnicu u praksi. Predstavništvo Srbije tražite preko ministarstva. Nema gradskih stranica. Cenu dajemo po upitu.",
+  "regionNotes": "Slovenija je blizu, ali i dalje je država polaska sa svojim upisom. Gradske stranice nisu u ovom izdanju. Srbija je odredište, ne usputna stanica.",
+  "processNotes": "Kraći drum ne znači da papiri otpadaju. I dalje idu izvod ili mrliški list i dozvola za transport.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Slovenački organ koji odobri izlazak tela; upis vodi upravna jedinica",
+    "familyPresence": "Zbog blizine porodica ponekad može da dođe. To nije uslov koji ovde propisujemo. Organ kaže da li prima ovlašćenje.",
+    "quoteInputs": ["mesto u Sloveniji", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "mrliški list",
+      "nameSr": "potvrda o smrti",
+      "issuer": "Upravna enota",
+      "url": "https://www.gov.si/",
+      "practiceVsLaw": "Početna strana gov.si je orijentir. Upravna jedinica vodi upis. Dubinski obrazac nismo kačili."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Savet Evrope, sporazum ETS 080",
+      "url": "https://rm.coe.int/168007617d",
+      "practiceVsLaw": "Sporazum opisuje dokument koji prati telo. Slovenački potpisnik proverava se za taj slučaj."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Sloveniji",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga upravna jedinica ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje mrliškog lista i dozvole za transport",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Da li je prevoz iz Slovenije samo zbog blizine jednostavan?",
+      "a": "Put je kraći nego iz Skandinavije, ali papiri i dalje postoje. Treba upis smrti u Sloveniji i dozvola za međunarodni transport. Srbija na ulasku ima svoj korak. Blizina ne gasi te dokumente."
+    },
+    {
+      "q": "Šta je mrliški list?",
+      "a": "To je slovenački naziv koji se u praksi koristi za potvrdu o smrti. Da li ga u vašem slučaju izdaje ta upravna jedinica, proverite na gov.si ili kod jedinice. Mi ga ne izdajemo."
+    },
+    {
+      "q": "Da li Ljubljana ima posebnu stranicu?",
+      "a": "Nema je u ovom izdanju. Nema proverenog konzularnog područja koje bismo vezali uz grad, ni lokalnog podatka koji nije kopija ove strane. Važi stranica za Sloveniju."
+    }
+  ],
+  "sources": [
+    {
+      "title": "gov.si",
+      "publisher": "Vlada Slovenije",
+      "url": "https://www.gov.si/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana države. Upravna jedinica i dalje vodi upis."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer za međunarodni prevoz."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Imenik predstavništava. Telefone ne prepisujemo."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

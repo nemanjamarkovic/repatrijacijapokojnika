@@ -1,0 +1,63 @@
+{
+  "slug": "cirih",
+  "parentCountry": "svajcarska",
+  "nameSr": "Cirih",
+  "nameLocal": "Zürich",
+  "region": "Kanton Cirih",
+  "h1": "Prevoz pokojnika iz Ciriha u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Ciriha u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Prevoz pokojnika iz Ciriha u Srbiju. Smrt se prijavljuje u Zivilstandsamt-u kantona. Konzulat Srbije navodi kanton Cirih. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Cirih je kanton za sebe. Smrt se prijavljuje u registru civilnog stanja, Zivilstandsamt, po pravilu tog kantona. Generalni konzulat Srbije u Cirihu na strani o nadležnosti navodi kanton Cirih. Ambasada u Bernu taj kanton ne stavlja na svoj spisak od jedanaest. Prevoz je drumski, u Srbiju.",
+  "uniqueFacts": [
+    "Kanton Cirih stoji na spisku Generalnog konzulata u Cirihu, ne na spisku Ambasade u Bernu.",
+    "Registar civilnog stanja vodi kanton, pa šalter nije ženevski ni bernski."
+  ],
+  "deathRegistration": {
+    "place": "Zivilstandsamt u kantonu Cirih",
+    "note": "Potvrdu o smrti izdaje registar kantona ili opštine. Naziv obrasca proverite kod tog registra."
+  },
+  "consulateOrEmbassy": {
+    "name": "Generalni konzulat Republike Srbije u Cirihu",
+    "url": "https://zurich.mfa.gov.rs/lat",
+    "coversNote": "Stranica nadležnosti navodi kanton Cirih među kantonima konzulata. Ista strana navodi i druge kantone i Lihtenštajn, koji nisu ova stranica."
+  },
+  "nearbyCitySlugs": [
+    "bern",
+    "bazel"
+  ],
+  "faq": [
+    {
+      "q": "Da li Ženeva i Cirih imaju isto predstavništvo Srbije?",
+      "a": "Nemaju, prema objavljenim spiskovima. Cirih je na spisku konzulata u Cirihu. Ženeva je na spisku Ambasade u Bernu. Matični registar je ionako kantonalni."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nadležnost Generalnog konzulata u Cirihu",
+      "publisher": "MSP Srbije",
+      "url": "https://zurich.mfa.gov.rs/lat/konzulat/nadleznost",
+      "retrieved": "2026-09-23",
+      "note": "Spisak kantona, uključujući ZH Zürich."
+    },
+    {
+      "title": "Generalni konzulat u Cirihu",
+      "publisher": "MSP Srbije",
+      "url": "https://zurich.mfa.gov.rs/lat",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana konzulata. Telefone ne prepisujemo."
+    }
+  ],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "published",
+  "nameSrGenitive": "Ciriha"
+}

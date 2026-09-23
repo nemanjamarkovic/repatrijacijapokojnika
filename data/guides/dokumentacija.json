@@ -1,0 +1,91 @@
+{
+  "slug": "dokumentacija",
+  "navLabel": "Dokumentacija",
+  "h1": "Dokumentacija za prevoz pokojnika",
+  "eyebrow": "Šta obično prati telo do Srbije",
+  "seoTitle": "Dokumentacija za prevoz pokojnika | {{BRAND_NAME}}",
+  "seoDescription": "Koja dokumenta obično prate prevoz pokojnika u Srbiju: izvod, laissez-passer i sprovodnica. Naziv zavisi od zemlje polaska. Ovo nije pravni savet.",
+  "reviewed": "2026-09-23",
+  "summary": "Uz telo do Srbije obično idu izvod ili potvrda o smrti iz zemlje polaska, dozvola za međunarodni transport i, u praksi, sprovodnica predstavništva Srbije. Naziv prvog i drugog papira nije isti u Nemačkoj, Italiji ili Grčkoj. Mi te papire prikupljamo. Ne izdajemo ih umesto matičara, prefekture ili ambasade. Spisak ispod je opšti. Za zemlju polaska otvorite njenu stranicu.",
+  "faqTitle": "Pitanja o dokumentima",
+  "autoLinkDocuments": true,
+  "relatedCountrySlugs": ["nemacka", "austrija", "svajcarska", "italija", "francuska", "holandija", "svedska", "danska", "spanija", "norveska", "belgija", "slovenija", "hrvatska", "grcka"],
+  "sections": [
+    {
+      "id": "izvod",
+      "heading": "Izvod ili potvrda o smrti",
+      "paragraphs": [
+        "Zemlja u kojoj je smrt nastupila upisuje smrt. Papir se zove Sterbeurkunde, acte de décès, certificado de defunción ili drugačije. Na srpskom je to izvod iz matične knjige umrlih ili potvrda o smrti. Izdaje ga matični ured, opština ili registar te zemlje, ne naša firma.",
+        "Ako link ka organu nije stabilan, na stranici zemlje piše naziv organa bez dubinske adrese. Bolje je bez linka nego pogrešan link."
+      ]
+    },
+    {
+      "id": "dozvola",
+      "heading": "Dozvola za međunarodni transport",
+      "paragraphs": [
+        "Telo na međunarodnom putu prati laissez-passer, dozvola zemlje polaska. Sporazum Saveta Evrope iz 1973, ETS broj 080, opisuje taj dokument između država koje ga primenjuju. U Nemačkoj i Austriji u praksi se kaže Leichenpass, u Francuskoj laissez-passer mortuaire, u Italiji passaporto mortuario.",
+        "Ko potpisuje dozvolu nije jedno ministarstvo za celu Evropu. U Nemačkoj zavisi od pokrajine, u Švajcarskoj od kantona, u Italiji je u praksi prefektura. To piše na stranici zemlje kao praksa, ne kao prepis člana zakona."
+      ]
+    },
+    {
+      "id": "sprovodnica",
+      "heading": "Sprovodnica za Srbiju",
+      "paragraphs": [
+        "Za ulazak u Srbiju u praksi se traži sprovodnica nadležnog predstavništva Srbije. To nije isto što i laissez-passer zemlje polaska. Koje predstavništvo je nadležno, piše na sajtu Ministarstva spoljnih poslova Srbije. Telefone ambasada ne prepisujemo.",
+        "Sporazum Saveta Evrope ne znači da srpski ulaz ne može tražiti svoj korak. Srbija nije članica Evropske unije. Šta organ na ulazu gleda, kaže taj organ."
+      ]
+    },
+    {
+      "id": "sanduk",
+      "heading": "Sanduk",
+      "paragraphs": [
+        "Sporazum traži da sanduk bude nepropustan. Ako organ zemlje polaska tako odluči, predviđen je drveni sanduk sa cinkom ili drugim materijalom koji se sam uništava. Ta izrada ulazi u ponudu samo kada je organ traži. Mere i način izrade čitaju se u sporazumu, ne ovde kao uputstvo."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Da li vi izdajete izvod o smrti?",
+      "a": "Ne. Izvod izdaje organ zemlje u kojoj je smrt nastupila. Mi ga prikupljamo i vozimo sa sandukom. Ne zamenjujemo matičara."
+    },
+    {
+      "q": "Da li je sprovodnica isto što i laissez-passer?",
+      "a": "Nije. Laissez-passer je dozvola zemlje polaska. Sprovodnica je, u praksi, papir predstavništva Srbije za ulazak. Oba mogu biti potrebna. Jedan ne gasi drugi."
+    },
+    {
+      "q": "Gde vidim naziv dokumenta za moju zemlju?",
+      "a": "Na stranici te zemlje, u odeljku dokumenta, i u spisku ispod koji vodi na sve zemlje gde je isti srpski naziv pomenut. Lokalni naziv stoji jednom, pa srpski."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Tekst sporazuma i model laissez-passer dokumenta."
+    },
+    {
+      "title": "Explanatory Report, ETS 080",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/16800c96c9",
+      "retrieved": "2026-09-23",
+      "note": "Objašnjenje sporazuma. Nije propis Srbije."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Imenik predstavništava za sprovodnicu."
+    },
+    {
+      "title": "Konzularna zaštita u EU",
+      "publisher": "Evropska komisija",
+      "url": "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/eu-citizenship/consular-protection_en",
+      "retrieved": "2026-09-23",
+      "note": "Opšti pregled konzularne zaštite za građane EU. Nije dozvola za prevoz tela."
+    }
+  ],
+  "status": "published"
+}

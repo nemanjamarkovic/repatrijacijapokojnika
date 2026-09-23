@@ -1,0 +1,87 @@
+{
+  "slug": "belgija",
+  "nameSr": "Belgija",
+  "nameSrGenitive": "Belgije",
+  "nameLocal": "België / Belgique",
+  "h1": "Prevoz pokojnika iz Belgije u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Belgije u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Belgije u Srbiju: dokumentacija, dozvola za transport i dostava. Upis smrti vodi opština. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Belgije. Smrt se upisuje u opštini. Izvod se, zavisno od jezika opštine, zove acte de décès ili overlijdensakte. Belgija ima zajednice i regione, pa šalter nije isti u svakom gradu. Dozvola za međunarodni transport je laissez-passer zemlje polaska. Savezna služba spoljnih poslova je početna strana, ne matični ured. Predstavništvo Srbije tražite preko ministarstva u Beogradu. Nema gradskih stranica. Za ulazak u Srbiju u praksi ide i sprovodnica.",
+  "regionNotes": "U Belgiji opština vodi upis smrti, a jezik obrasca zavisi od opštine. Gradske stranice nisu u ovom izdanju.",
+  "processNotes": "Ne delimo Brisel, Flandriju i Valoniju na posebne stranice dok nema proverenog predstavništva Srbije i lokalnog podatka koji nije kopija ove strane.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Belgijski organ koji odobri izlazak tela; izvod daje opština",
+    "familyPresence": "Ovlašćenje je često dovoljno. Opština može tražiti dolazak. To proveravamo za tu opštinu.",
+    "quoteInputs": ["opština u Belgiji", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "acte de décès",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Opština",
+      "url": "",
+      "practiceVsLaw": "Opština izdaje izvod. Na holandskom je overlijdensakte. Nema jednog linka za sve opštine."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "FPS Foreign Affairs",
+      "url": "https://diplomatie.belgium.be/",
+      "practiceVsLaw": "Početna strana savezne diplomatije. Dozvolu za polazak izdaje organ u Belgiji, ne ova početna strana sama."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i opština u Belgiji",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga opština ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje izvoda i dozvole za transport",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Na kom jeziku je izvod u Belgiji?",
+      "a": "Zavisi od opštine. Na francuskom je acte de décès, na holandskom overlijdensakte. Oba su izvod o smrti. Dozvola za prevoz preko granice je drugi dokument, laissez-passer."
+    },
+    {
+      "q": "Da li Brisel ima posebnu stranicu?",
+      "a": "Nema je u ovom izdanju. Posebna stranica traži podatak koji nije kopija državne strane i predstavništvo Srbije čije područje piše na zvaničnom sajtu. Do tada važi ova stranica."
+    },
+    {
+      "q": "Ko potvrđuje ulazak u Srbiju?",
+      "a": "Papire zemlje polaska vozimo sa sandukom. Sprovodnicu u praksi izdaje predstavništvo Srbije. Koje je nadležno za Belgiju piše u imeniku ministarstva. Organi na ulasku u Srbiju i dalje mogu tražiti uvid."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FPS Foreign Affairs",
+      "publisher": "Savezna javna služba spoljnih poslova Belgije",
+      "url": "https://diplomatie.belgium.be/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana diplomatije. Nije opštinski matični ured."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer za međunarodni prevoz."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Imenik predstavništava. Telefone ne prepisujemo."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

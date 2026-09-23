@@ -1,0 +1,41 @@
+{
+  "slug": "bosna-i-hercegovina",
+  "nameSr": "Bosna i Hercegovina",
+  "primary": false,
+  "h1": "Prevoz pokojnika u Bosnu i Hercegovinu",
+  "seoTitle": "Prevoz pokojnika u Bosnu i Hercegovinu | {{BRAND_NAME}}",
+  "seoDescription": "Dostavu pokojnika u Bosnu i Hercegovinu organizujemo pored glavne usluge, prevoza u Srbiju. Papire odredišta proverite kod organa BiH. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Glavno odredište ovog sajta je Srbija. Dostavu u Bosnu i Hercegovinu organizujemo kada porodica to posebno traži. Telo i dalje kreće iz zemlje u kojoj se nalazi, sa dokumentima te zemlje. Na ulazu u Bosnu i Hercegovinu organi te države mogu tražiti svoju dozvolu. Koji ured i koji naziv, kaže njihov organ. Mi to ne izmišljamo na ovoj strani.",
+  "deliveryNotes": "Dostava je na mesto u Bosni i Hercegovini koje porodica navede, ili pogrebnom preduzeću koje porodica imenuje. Ne tvrdimo pokrivenost svakog sela bez dogovora o prilazu.",
+  "borderNote": "Ulaz u Bosnu i Hercegovinu nije ulaz u Srbiju. Dozvola zemlje polaska prati telo. Organi Bosne i Hercegovine mogu tražiti dodatni korak za unos. Link je Vijeće ministara, jer sajt ministarstva spoljnih poslova nije prošao proveru sertifikata.",
+  "localFuneralNote": "Sahranu u mestu vodi pogrebno preduzeće koje porodica izabere tamo. Mi predajemo telo i dokumenta. Ne zamenjujemo to preduzeće.",
+  "sectionOrder": ["hero", "delivery", "border", "local-funeral", "origins", "faq", "sources", "cta"],
+  "faq": [
+    {
+      "q": "Da li je prevoz u Bosnu i Hercegovinu glavna usluga?",
+      "a": "Nije. Glavna usluga je prevoz u Srbiju. Dostavu u Bosnu i Hercegovinu radimo kada porodica to traži, uz posebnu ponudu i uz papire koje traži ta država."
+    },
+    {
+      "q": "Ko potvrđuje unos u Bosnu i Hercegovinu?",
+      "a": "Organi Bosne i Hercegovine. Početna strana koju ovde dajemo je Vijeće ministara, jer sajt ministarstva spoljnih poslova nije prošao proveru sertifikata. Tačan naziv dozvole ne prepisujemo, jer se menja i zavisi od slučaja."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vijeće ministara Bosne i Hercegovine",
+      "publisher": "Vijeće ministara BiH",
+      "url": "https://www.vijeceministara.gov.ba/",
+      "retrieved": "2026-09-23",
+      "note": "Stabilna vladina strana. Sajt mvp.gov.ba nije imao sertifikat koji je provera prihvatila, zato nije link."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Dokument zemlje polaska, ne bosanskohercegovačka dozvola za unos."
+    }
+  ],
+  "status": "published"
+}

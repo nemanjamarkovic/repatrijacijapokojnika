@@ -1,0 +1,23 @@
+# Cache headers for any static host.
+# HTML stays short so copy updates show up. Hashed files in /assets can be cached for a year.
+
+# Netlify _headers
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/og-default.png
+  Cache-Control: public, max-age=31536000, immutable
+
+/*
+  Cache-Control: public, max-age=300
+
+# nginx
+# location /assets/ {
+#   add_header Cache-Control "public, max-age=31536000, immutable";
+# }
+# location = /og-default.png {
+#   add_header Cache-Control "public, max-age=31536000, immutable";
+# }
+# location / {
+#   add_header Cache-Control "public, max-age=300";
+# }

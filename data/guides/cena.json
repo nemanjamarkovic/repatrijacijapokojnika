@@ -1,0 +1,64 @@
+{
+  "slug": "cena",
+  "navLabel": "Cena",
+  "h1": "Cena prevoza pokojnika iz inostranstva",
+  "eyebrow": "Šta ulazi u ponudu, bez lažnog broja",
+  "seoTitle": "Cena prevoza pokojnika iz inostranstva | {{BRAND_NAME}}",
+  "seoDescription": "Cenu prevoza pokojnika u Srbiju ne objavljujemo kao jedan iznos. Zavisi od adresa, sanduka koji organ zatraži, dozvola i zastoja. Ponuda stiže po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Ne objavljujemo cenu po kilometru ni fiksni iznos. Dve adrese nisu iste, ni dva slučaja. Ponuda se pravi kada znamo gde se telo nalazi i gde u Srbiji treba da stigne. Ispod je samo šta tu ponudu menja. Nema skrivenog cenovnika na drugoj strani i nema zvezde ni broja zadovoljnih porodica.",
+  "faqTitle": "Pitanja o ceni",
+  "howTo": false,
+  "autoLinkDocuments": false,
+  "relatedCountrySlugs": ["nemacka", "austrija", "svajcarska", "italija", "francuska", "holandija", "svedska", "danska", "spanija", "norveska", "belgija", "slovenija", "hrvatska", "grcka"],
+  "sections": [
+    {
+      "id": "rastojanje",
+      "heading": "Rastojanje",
+      "paragraphs": [
+        "Najveći deo ponude je put od adrese preuzimanja do adrese u Srbiji. Grad u zemlji nije dovoljan. Treba ulica ili mesto gde se telo zaista nalazi, i mesto predaje u Srbiji."
+      ]
+    },
+    {
+      "id": "sanduk",
+      "heading": "Sanduk",
+      "paragraphs": [
+        "Ako organ zemlje polaska traži nepropustan sanduk sa cinkom ili drugim materijalom iz sporazuma Saveta Evrope, to menja ponudu. Ako to ne traži, ne dodajemo ga da bismo napunili račun. Porodica čuje šta je traženo."
+      ]
+    },
+    {
+      "id": "dozvole",
+      "heading": "Dozvole",
+      "paragraphs": [
+        "Takse organa, overa i sprovodnica nisu ista stavka u svakoj zemlji. U ponudi piše šta je poznato u trenutku upita. Ako organ kasnije traži novu taksu, to se kaže, ne skriva."
+      ]
+    },
+    {
+      "id": "zastoj",
+      "heading": "Zastoj zbog postupka",
+      "paragraphs": [
+        "Ako je istraga, obdukcija ili drugi postupak otvoren, vozilo čeka. Čekanje menja rok i može menjati ponudu. Ne obećavamo polazak dok organ ne pusti telo."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Zašto nema cene na sajtu?",
+      "a": "Zato što bi jedan broj bio netačan za sledeću adresu. Ponuda ide po mestu preuzimanja, mestu u Srbiji i stanju papira. To je poštenije od iznosa koji ne možemo da odbranimo."
+    },
+    {
+      "q": "Da li je dokumentacija uvek besplatna?",
+      "a": "Ne tvrdimo da je besplatna. Takse organa postoje i zavise od zemlje. U ponudi se vidi da li ih plaća porodica organu ili idu kroz naš račun. Nema rečenice da je sve uključeno ako nije."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Okvir za sanduk kada ga organ zemlje polaska traži. Nije cenovnik."
+    }
+  ],
+  "status": "published"
+}

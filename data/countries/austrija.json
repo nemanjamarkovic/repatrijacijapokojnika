@@ -1,0 +1,94 @@
+{
+  "slug": "austrija",
+  "nameSr": "Austrija",
+  "nameSrGenitive": "Austrije",
+  "nameLocal": "Österreich",
+  "h1": "Prevoz pokojnika iz Austrije u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Austrije u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Austrije u Srbiju: dokumentacija, dozvola za transport i dostava. Pravila zavise od pokrajine. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Austrije, uključujući dokumenta i predaju na odredištu. Smrt se prijavljuje u matičnom uredu, Standesamt, u pokrajini gde je smrt nastupila. Dozvola za međunarodni transport prati telo; u praksi se koristi naziv Leichenpass, a nadležni organ nije isti u svakoj pokrajini. Ambasada Srbije u Beču je predstavništvo čiju stranicu ovde navodimo. Gradove van Beča ne objavljujemo dok na toj strani ne piše da ih ambasada pokriva.",
+  "regionNotes": "Austrija je savezna država. Propis o sahrani nije jedan tekst za Beč, Štajersku, Gornju Austriju i Salcburg. Zato gradske stranice postoje samo tamo gde je predstavništvo Srbije provereno.",
+  "processNotes": "Za Beč je potvrđena Ambasada Srbije u Beču. Grac, Linc i Salcburg imaju pripremljene podatke, ali stranice nisu objavljene dok se ne potvrdi konzularno područje.",
+  "keyFacts": {
+    "permitLocal": "Leichenpass",
+    "permitSr": "laissez-passer, dozvola za međunarodni transport",
+    "issuer": "Organ pokrajine polaska; nije jedan savezni šalter za sve gradove",
+    "familyPresence": "Dolazak porodice nije uvek potreban ako organ prihvati ovlašćenje. To treba proveriti za konkretan slučaj.",
+    "quoteInputs": ["mesto preuzimanja u Austriji", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "Sterbeurkunde",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Standesamt",
+      "url": "",
+      "practiceVsLaw": "Matični ured pokrajine ili grada izdaje izvod. Dubinski link nismo stavili jer se stranice pokrajina menjaju."
+    },
+    {
+      "nameLocal": "Leichenpass",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Savet Evrope, sporazum ETS 080",
+      "url": "https://rm.coe.int/168007617d",
+      "practiceVsLaw": "Sporazum opisuje dokument koji prati telo. Austrijski organ koji ga izdaje zavisi od pokrajine polaska."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Austriji gde se telo nalazi",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga matični ured ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi u Austriji",
+    "Prikupljanje izvoda i dozvole za transport",
+    "Drumski prevoz do Srbije i predaja"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Gde se u Austriji prijavljuje smrt?",
+      "a": "Smrt se prijavljuje u matičnom uredu, Standesamt, nadležnom za mesto smrti. Austrija ima pokrajine, pa obrazac i šalter nisu isti u Beču i u drugim pokrajinama. Tačan ured treba uzeti iz lokalnog obaveštenja, ne sa ove stranice kao iz zakona."
+    },
+    {
+      "q": "Da li Ambasada Srbije u Beču pokriva celu Austriju?",
+      "a": "Na ovoj stranici potvrđujemo samo da ambasada postoji u Beču i da je to predstavništvo za upite iz Beča. Za Grac, Linc i Salcburg nismo našli rečenicu o području koju možemo da citiramo, pa te gradske stranice nisu objavljene."
+    },
+    {
+      "q": "Kako se zove dozvola za izlazak iz Austrije?",
+      "a": "U praksi se dozvola naziva Leichenpass. To je laissez-passer iz sporazuma Saveta Evrope, na srpskom dozvola za međunarodni transport. Koji austrijski organ je potpisuje zavisi od pokrajine, ne od jednog ministarstva."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Dokument koji prati telo između država koje primenjuju sporazum."
+    },
+    {
+      "title": "Savezno ministarstvo za evropske i međunarodne poslove",
+      "publisher": "BMEIA",
+      "url": "https://www.bmeia.gv.at/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana austrijskog ministarstva spoljnih poslova. Nije spisak matičnih ureda."
+    },
+    {
+      "title": "Ambasada Republike Srbije u Austriji",
+      "publisher": "MSP Srbije",
+      "url": "https://vienna.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Predstavništvo u Beču. Područje van Beča nije ovde proglašeno pokrivenim."
+    },
+    {
+      "title": "Ambasada Srbije u Austriji, imenik",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/lat/predstavnistva/predstavnistva-srbije-u-svetu/ambasade/ambasada-republike-srbije-u-austriji",
+      "retrieved": "2026-09-23",
+      "note": "Imenik ministarstva sa linkom ka sajtu ambasade. Telefone ne prepisujemo."
+    }
+  ],
+  "relatedCities": ["bec", "grac", "linc", "salcburg"],
+  "status": "published"
+}

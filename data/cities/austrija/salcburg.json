@@ -1,0 +1,45 @@
+{
+  "slug": "salcburg",
+  "parentCountry": "austrija",
+  "nameSr": "Salcburg",
+  "nameLocal": "Salzburg",
+  "region": "Pokrajina Salcburg",
+  "h1": "Prevoz pokojnika iz Salcburga u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Salcburga u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Nacrt stranice za Salcburg nije objavljen dok se ne potvrdi koje predstavništvo Srbije pokriva tu pokrajinu. Državna stranica Austrije jeste objavljena.",
+  "reviewed": "2026-09-23",
+  "summary": "Nacrt. Salcburg je posebna pokrajina. Stranica se ne objavljuje dok područje predstavništva Srbije ne bude potvrđeno.",
+  "uniqueFacts": [
+    "Salcburg je posebna pokrajina, ne deo Gornje Austrije.",
+    "Matični ured za smrt u gradu Salcburg bio bi tamošnji Standesamt."
+  ],
+  "deathRegistration": {
+    "place": "Standesamt u Salcburgu",
+    "note": "Nacrt. Nije objavljeno."
+  },
+  "consulateOrEmbassy": {
+    "name": "",
+    "url": "",
+    "coversNote": "Područje nije potvrđeno."
+  },
+  "nearbyCitySlugs": [],
+  "faq": [
+    {
+      "q": "Zašto stranica nije javna?",
+      "a": "Nema potvrđenog predstavništva Srbije za Salcburg."
+    }
+  ],
+  "sources": [],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "draft",
+  "nameSrGenitive": "Salcburga"
+}

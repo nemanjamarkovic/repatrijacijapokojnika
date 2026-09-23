@@ -1,0 +1,83 @@
+{
+  "slug": "kako-tece-prevoz",
+  "navLabel": "Kako teče prevoz",
+  "h1": "Kako teče prevoz pokojnika u Srbiju",
+  "eyebrow": "Od poziva do predaje",
+  "seoTitle": "Kako teče prevoz pokojnika u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Koraci drumskog prevoza pokojnika u Srbiju: adrese, papiri zemlje polaska, dozvola, sanduk i predaja. Rok nije isti za svaku zemlju i ne obećavamo ga ovde.",
+  "reviewed": "2026-09-23",
+  "summary": "Prevoz u Srbiju ide ovim redom: javite dve adrese, srede se papiri zemlje polaska, uz telo ide dozvola, sanduk ispuni ono što organ traži, vozilo preda telo u Srbiji. Ne obećavamo broj dana. Ako je istraga ili obdukcija otvorena, polazak čeka taj postupak. Mi ne zamenjujemo policiju, sud ni matičara.",
+  "faqTitle": "Pitanja o toku",
+  "howTo": true,
+  "autoLinkDocuments": false,
+  "relatedCountrySlugs": ["nemacka", "austrija", "svajcarska", "italija", "francuska", "holandija", "svedska", "danska", "spanija", "norveska", "belgija", "slovenija", "hrvatska", "grcka"],
+  "sections": [
+    {
+      "id": "adrese",
+      "howToStep": true,
+      "heading": "Javite gde je telo i gde u Srbiji treba da stigne",
+      "paragraphs": [
+        "Bez mesta preuzimanja i mesta u Srbiji nema ponude. Recite i da li je telo u bolnici, mrtvačnici ili već sahranjeno. Ekshumacija je druga stranica i duži je dogovor."
+      ]
+    },
+    {
+      "id": "papiri",
+      "howToStep": true,
+      "heading": "Prikupljaju se papiri zemlje polaska",
+      "paragraphs": [
+        "Matični ured ili registar izdaje izvod ili potvrdu. Koji je naziv, piše na stranici te zemlje. Mi stojimo u dogovoru sa tim mestom. Ne izdajemo papir umesto njih."
+      ]
+    },
+    {
+      "id": "dozvola",
+      "howToStep": true,
+      "heading": "Izdaje se dozvola za transport i, u praksi, sprovodnica",
+      "paragraphs": [
+        "Laissez-passer izdaje organ zemlje polaska. Sprovodnicu u praksi traži predstavništvo Srbije. Dok oba koraka nisu jasna, vozilo ne kreće kao da je put običan."
+      ]
+    },
+    {
+      "id": "sanduk",
+      "howToStep": true,
+      "heading": "Sanduk se sprema po pravilu koje organ traži",
+      "paragraphs": [
+        "Ako organ zemlje polaska traži sanduk iz sporazuma Saveta Evrope, to ulazi u pripremu. Ne opisujemo radionicu. Porodica dobija objašnjenje šta je traženo, ne crtež."
+      ]
+    },
+    {
+      "id": "predaja",
+      "howToStep": true,
+      "heading": "Vozilo predaje telo u Srbiji",
+      "paragraphs": [
+        "Predaja je porodici ili pogrebnom preduzeću koje porodica imenuje. Sahranu taj dom vodi dalje ako porodica tako ugovori. Mi ne biramo groblje."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Koliko traje ceo tok?",
+      "a": "Ne objavljujemo jedan broj dana. Zavisi od zemlje, radnog vremena organa i toga da li je postupak pred policijom ili sudom još otvoren. Rok stoji u ponudi za te adrese."
+    },
+    {
+      "q": "Šta ako je obdukcija u toku?",
+      "a": "Polazak čeka da organ pusti telo. To nije zastoj koji mi možemo da preskočimo. Porodica to treba da zna pre nego što se dogovori datum sahrane u Srbiji."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Okvir za laissez-passer i sanduk kada organ zemlje polaska primenjuje sporazum."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Predstavništva za sprovodnicu."
+    }
+  ],
+  "status": "published"
+}

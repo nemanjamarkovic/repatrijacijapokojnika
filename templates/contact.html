@@ -1,0 +1,17 @@
+{{> shell-open}}
+<header class="page-hero" id="hero">
+  <h1>{{h1}}</h1>
+  <p class="lead">{{summary}}</p>
+  <div class="contact-actions">
+    <a class="button" href="tel:{{phone}}">{{ui.call}} {{phone}}</a>
+    <a class="button button-secondary" href="{{whatsappHref}}">{{ui.whatsapp}}</a>
+  </div>
+  <p>{{streetAddress}}, {{city}}</p>
+  <p><a href="mailto:{{email}}">{{email}}</a></p>
+  <p class="reviewed">{{ui.reviewed}}: <time datetime="{{reviewed}}">{{reviewedDisplay}}</time></p>
+</header>
+<section class="panel form-panel" id="upit" aria-labelledby="form-title">
+  <h2 id="form-title">{{ui.formTitle}}</h2>
+  {{> form}}
+</section>
+{{> shell-close}}

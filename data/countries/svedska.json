@@ -1,0 +1,87 @@
+{
+  "slug": "svedska",
+  "nameSr": "Švedska",
+  "nameSrGenitive": "Švedske",
+  "nameLocal": "Sverige",
+  "h1": "Prevoz pokojnika iz Švedske u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Švedske u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Švedske u Srbiju: dokumentacija, dozvola za transport i dostava. Prijava smrti ide preko Skatteverket. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Švedske. Put je dug, pa rok zavisi od rastojanja i od toga da li su papiri zatvoreni, a ne od obećanja na sajtu. Prijavu smrti u švedskom sistemu vodi Poreska uprava, Skatteverket, koja drži registar stanovništva. Lekarska potvrda i izvod nisu isti papir; tačan naziv čitajte na njihovoj strani. Dozvola za međunarodni transport je laissez-passer zemlje polaska. Predstavništvo Srbije tražite preko ministarstva u Beogradu. Gradske stranice nisu objavljene.",
+  "regionNotes": "Švedska nema gradskih stranica u ovom izdanju. Udaljenost do Srbije je velika, ali usluga i dalje može biti drumska. Avion je posebna stranica i nije podrazumevan.",
+  "processNotes": "Skatteverket je organ za civilnu evidenciju. Nije pogrebno preduzeće i ne izdaje našu ponudu.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Organ Švedske koji odobri izlazak tela; registar stanovništva vodi Skatteverket",
+    "familyPresence": "Ovlašćenje je uobičajeno, ali švedski organ može tražiti drugačije. Ne obećavamo da niko ne putuje.",
+    "quoteInputs": ["mesto u Švedskoj", "mesto u Srbiji", "da li je postupak pred organima otvoren"]
+  },
+  "documents": [
+    {
+      "nameLocal": "dödsbevis",
+      "nameSr": "potvrda o smrti",
+      "issuer": "Skatteverket",
+      "url": "https://www.skatteverket.se/",
+      "practiceVsLaw": "Početna strana registra. Tačan obrazac i ko ga potpisuje pročitajte tamo, jer se stranice menjaju."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Savet Evrope, sporazum ETS 080",
+      "url": "https://rm.coe.int/168007617d",
+      "practiceVsLaw": "Sporazum opisuje dokument koji prati telo. Švedski potpisnik nije naveden kao jedan šalter na ovoj strani."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Švedskoj",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga organ ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje švedskih potvrda i dozvole za transport",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Zašto je naveden Skatteverket?",
+      "a": "Skatteverket vodi švedski registar stanovništva, pa je prijava smrti vezana za taj organ. To nije poreski savet i nije dozvola za prevoz. Dozvola za izlazak tela je poseban dokument, laissez-passer."
+    },
+    {
+      "q": "Da li je prevoz iz Švedske uvek avionom?",
+      "a": "Ne. Osnovna usluga na ovom sajtu je drumski prevoz u Srbiju. Avion je druga stranica i dolazi u obzir kada drum nije pravi put, na primer van Evrope. Iz Švedske drum i dalje može biti dogovor."
+    },
+    {
+      "q": "Koliko dana traje put iz Švedske?",
+      "a": "Ne objavljujemo broj dana. Rastojanje je veliko, a organi ne rade istom brzinom ako je postupak otvoren. Rok stoji u ponudi za te dve adrese, ne na ovoj strani."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Skatteverket",
+      "publisher": "Poreska uprava Švedske",
+      "url": "https://www.skatteverket.se/",
+      "retrieved": "2026-09-23",
+      "note": "Registar stanovništva. Početna strana, bez dubinskog obrasca koji brzo zastareva."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer za međunarodni prevoz tela."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Predstavništvo Srbije za Švedsku tražite u imeniku. Ne pogađamo poddomen."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

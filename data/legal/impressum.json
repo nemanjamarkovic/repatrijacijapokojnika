@@ -1,0 +1,27 @@
+{
+  "slug": "impressum",
+  "navLabel": "Podaci o preduzeću",
+  "h1": "Podaci o preduzeću",
+  "seoTitle": "Podaci o preduzeću za prevoz pokojnika | {{BRAND_NAME}}",
+  "seoDescription": "Naziv, adresa i matični broj preduzeća koje organizuje prevoz pokojnika u Srbiju. Polja su označena dok vlasnik ne unese prave podatke pre objave sajta.",
+  "reviewed": "2026-09-23",
+  "summary": "Ovde stoje podaci o preduzeću. Dok su u vitičastim zagradama, sajt nije spreman za javno oglašavanje. Vlasnik ih menja u data/site.json pre objave.",
+  "sections": [
+    {
+      "id": "identitet",
+      "heading": "Identitet",
+      "paragraphs": [
+        "Naziv na sajtu: {{BRAND_NAME}}. Pravni naziv: {{LEGAL_NAME}}. Matični broj: {{COMPANY_ID}}.",
+        "Adresa: {{STREET_ADDRESS}}, {{CITY}}. Telefon: {{PHONE}}. Imejl: {{EMAIL}}. WhatsApp: {{WHATSAPP}}."
+      ]
+    },
+    {
+      "id": "sadrzaj",
+      "heading": "Sadržaj stranica",
+      "paragraphs": [
+        "Tekst o dokumentima je opšta informacija, ne pravni savet. Zvanični izvor naveden na stranici je merodavan. Postupci se menjaju. Datum pregleda stoji na svakoj takvoj strani."
+      ]
+    }
+  ],
+  "status": "published"
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "hamburg",
+  "parentCountry": "nemacka",
+  "nameSr": "Hamburg",
+  "nameLocal": "Hamburg",
+  "region": "Pokrajina Hamburg",
+  "h1": "Prevoz pokojnika iz Hamburga u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Hamburga u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Prevoz pokojnika iz Hamburga u Srbiju. Smrt se prijavljuje u hamburškom Standesamt-u. Konzulat Srbije pokriva ovu pokrajinu. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Hamburg je posebna pokrajina, kao i Berlin. Smrt se prijavljuje u matičnom uredu, Standesamt, u Hamburgu. Generalni konzulat Srbije u Hamburgu na spisku navodi Hamburg, Bremen, Šlezvig-Holštajn i Donju Saksoniju. Ambasada u Berlinu te pokrajine ne navodi. Prevoz u Srbiju je drumski. Leichenpass izdaje organ ove pokrajine.",
+  "uniqueFacts": [
+    "Hamburg je zasebna pokrajina, ne deo Donje Saksonije, iako konzulat navodi i tu susednu pokrajinu.",
+    "Generalni konzulat Srbije u Hamburgu navodi Hamburg u svom području."
+  ],
+  "deathRegistration": {
+    "place": "Standesamt u Hamburgu",
+    "note": "Izvod izdaje hamburški matični ured. Smrt u Bremenu ili Donjoj Saksoniji ima svoj ured, iako konzulat može biti isti."
+  },
+  "consulateOrEmbassy": {
+    "name": "Generalni konzulat Republike Srbije u Hamburgu",
+    "url": "https://hamburg.mfa.gov.rs/",
+    "coversNote": "Spisak predstavništava stavlja uz Hamburg i Bremen, Šlezvig-Holštajn i Donju Saksoniju. Ova stranica je za grad Hamburg."
+  },
+  "nearbyCitySlugs": [
+    "berlin"
+  ],
+  "faq": [
+    {
+      "q": "Da li je Hamburg u području berlinske ambasade?",
+      "a": "Nije na spisku ambasade. Ambasada navodi Berlin i pet istočnih i severoistočnih pokrajina. Hamburg stoji uz Generalni konzulat u Hamburgu. Matični ured je hamburški."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Generalni konzulat u Hamburgu",
+      "publisher": "MSP Srbije",
+      "url": "https://hamburg.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Sajt naveden na zvaničnom spisku."
+    },
+    {
+      "title": "Spisak predstavništava u Nemačkoj",
+      "publisher": "Generalni konzulat u Frankfurtu",
+      "url": "https://frankfurt.mfa.gov.rs/lat/konzulat/konzulati",
+      "retrieved": "2026-09-23",
+      "note": "Hamburg i tri susedne pokrajine navedeni su uz ovaj konzulat."
+    }
+  ],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "published",
+  "nameSrGenitive": "Hamburga"
+}

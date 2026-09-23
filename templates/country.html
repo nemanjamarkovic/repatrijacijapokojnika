@@ -1,0 +1,46 @@
+{{> shell-open}}
+<header class="page-hero" id="hero">
+  <p class="eyebrow">{{eyebrow}}</p>
+  <h1>{{h1}}</h1>
+  <p class="lead">{{summary}}</p>
+  <p class="reviewed">{{ui.reviewed}}: <time datetime="{{reviewed}}">{{reviewedDisplay}}</time></p>
+  <p class="disclaimer">{{disclaimer}}</p>
+  {{{guideLinksHtml}}}
+</header>
+<section class="panel" id="key-facts" aria-labelledby="facts-title">
+  <h2 id="facts-title">{{ui.keyFactsTitle}}</h2>
+  <dl>{{{factsHtml}}}</dl>
+  <p>{{regionNotes}}</p>
+  <p>{{processNotes}}</p>
+</section>
+<section class="panel" id="roles" aria-labelledby="roles-title">
+  <h2 id="roles-title">{{ui.rolesTitle}}</h2>
+  <div class="two-col">
+    <div>
+      <h3>{{ui.familyTitle}}</h3>
+      {{{familyHtml}}}
+    </div>
+    <div>
+      <h3>{{ui.companyTitle}}</h3>
+      {{{companyHtml}}}
+    </div>
+  </div>
+</section>
+<section class="panel" id="documents" aria-labelledby="documents-title">
+  <h2 id="documents-title">{{ui.documentsTitle}}</h2>
+  <ul class="sources">{{{documentsHtml}}}</ul>
+</section>
+<section class="panel" id="routes" aria-labelledby="routes-title">
+  <h2 id="routes-title">{{ui.routesTitle}}</h2>
+  <ul class="route-list">{{{routesHtml}}}</ul>
+</section>
+{{#if citiesHtml}}
+<section class="panel" id="cities" aria-labelledby="cities-title">
+  <h2 id="cities-title">{{ui.citiesTitle}}</h2>
+  <ul class="card-list">{{{citiesHtml}}}</ul>
+</section>
+{{/if}}
+{{> sources}}
+{{> faq}}
+{{> cta}}
+{{> shell-close}}

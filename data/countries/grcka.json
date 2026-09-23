@@ -1,0 +1,87 @@
+{
+  "slug": "grcka",
+  "nameSr": "Grčka",
+  "nameSrGenitive": "Grčke",
+  "nameLocal": "Ελλάδα",
+  "h1": "Prevoz pokojnika iz Grčke u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Grčke u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Grčke u Srbiju: dokumentacija, dozvola za transport i dostava. Upis smrti vodi matični ured. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Grčke. Upis smrti vodi matični ured, na grčkom lixiarheio. Izvod je poseban papir od dozvole za izlazak tela. Dozvola je laissez-passer zemlje polaska. Sa ostrva telo prvo ide do luke ili aerodroma, pa tek onda u drumski deo ka Srbiji. To nije ista ponuda kao preuzimanje na kopnu. Ministarstvo spoljnih poslova Grčke je početna strana. Predstavništvo Srbije tražite preko ministarstva u Beogradu. Nema gradskih stranica. Cenu dajemo po upitu.",
+  "regionNotes": "Grčka ima kopno i ostrva. Drum važi kada je telo na putu koji vozilo može da vozi. Ostrvo traži prethodni korak do kopna ili do aerodroma. To dogovaramo posebno.",
+  "processNotes": "Ne pravimo stranice za Atinu ili Solun dok nema proverenog područja predstavništva Srbije i lokalnog podatka.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Grčki organ koji odobri izlazak tela; izvod daje matični ured",
+    "familyPresence": "Ovlašćenje je često dovoljno. Ured može tražiti dolazak, posebno ako je mesto na ostrvu. To proveravamo.",
+    "quoteInputs": ["mesto u Grčkoj, uključujući ostrvo ako jeste", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "ληξιαρχική πράξη θανάτου",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Lixiarheio",
+      "url": "",
+      "practiceVsLaw": "Matični ured izdaje izvod. Naziv je na grčkom. Nema jednog linka za sve opštine."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Ministarstvo spoljnih poslova Grčke",
+      "url": "https://www.mfa.gr/",
+      "practiceVsLaw": "Početna strana ministarstva. Dozvolu za polazak izdaje organ u Grčkoj, ne srpska firma."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Grčkoj",
+    "Da li je mesto na ostrvu",
+    "Mesto u Srbiji i ovlašćenje ako ga ured zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje izvoda i dozvole za transport",
+    "Drumski deo puta ka Srbiji, posle kopna ako je trebalo"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Kako se zove matični ured u Grčkoj?",
+      "a": "Matični ured je lixiarheio. On vodi upis smrti. Izvod nije isto što i laissez-passer za izlazak tela iz zemlje. Oba papira idu uz prevoz u Srbiju kada ih organi traže."
+    },
+    {
+      "q": "Šta ako je smrt na ostrvu?",
+      "a": "Vozilo ne kreće sa ostrva kao sa kopna. Telo prvo treba da stigne do luke ili aerodroma, po pravilima tog mesta. Tek posle toga ide drumski deo ka Srbiji. Taj prvi korak ulazi u poseban dogovor."
+    },
+    {
+      "q": "Da li Atina ima posebnu stranicu?",
+      "a": "Nema je u ovom izdanju. Nema proverenog područja predstavništva Srbije koje bismo vezali uz grad. Važi ova stranica za Grčku, uz napomenu o ostrvima."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministarstvo spoljnih poslova Grčke",
+      "publisher": "MFA Grčke",
+      "url": "https://www.mfa.gr/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana ministarstva. Nije matični ured."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer za međunarodni prevoz."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Imenik predstavništava. Telefone ne prepisujemo."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

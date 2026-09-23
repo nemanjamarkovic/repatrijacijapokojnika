@@ -1,0 +1,35 @@
+<form class="enquiry-form" action="{{formEndpoint}}" method="post">
+  <p class="form-note">{{ui.formNote}}</p>
+  <p class="form-error" id="form-error" hidden></p>
+  <label for="name">Ime i prezime
+    <input id="name" name="name" type="text" autocomplete="name" required>
+  </label>
+  <label for="phone">Telefon
+    <input id="phone" name="phone" type="tel" autocomplete="tel" required>
+  </label>
+  <label for="email">Imejl
+    <input id="email" name="email" type="email" autocomplete="email" required>
+  </label>
+  <label for="country">Zemlja smrti
+    <select id="country" name="country" required>
+      <option value="">Izaberite</option>
+      {{{countryOptions}}}
+    </select>
+  </label>
+  <label for="city">Grad
+    <input id="city" name="city" type="text" autocomplete="address-level2" required>
+  </label>
+  <label for="destination">Odredište
+    <select id="destination" name="destination" required>
+      {{{destinationOptions}}}
+    </select>
+  </label>
+  <label for="message">Poruka
+    <textarea id="message" name="message" rows="5" required></textarea>
+  </label>
+  <div class="hp" aria-hidden="true">
+    <label for="company_website">Veb sajt</label>
+    <input id="company_website" name="company_website" type="text" tabindex="-1" autocomplete="off">
+  </div>
+  <button class="button" type="submit">Pošaljite upit</button>
+</form>

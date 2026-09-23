@@ -1,0 +1,23 @@
+{{> shell-open}}
+<header class="page-hero" id="hero">
+  <p class="eyebrow">{{eyebrow}}</p>
+  <h1>{{h1}}</h1>
+  <p class="lead">{{summary}}</p>
+  <p class="reviewed">{{ui.reviewed}}: <time datetime="{{reviewed}}">{{reviewedDisplay}}</time></p>
+  <p class="disclaimer">{{disclaimer}}</p>
+</header>
+{{{guideSectionsHtml}}}
+{{#if autoDocumentsHtml}}
+<section class="panel" id="documents-by-country" aria-labelledby="doc-index-title">
+  <h2 id="doc-index-title">Gde je dokument pomenut</h2>
+  <ul class="sources">{{{autoDocumentsHtml}}}</ul>
+</section>
+{{/if}}
+{{> sources}}
+<section class="panel" id="related" aria-labelledby="related-title">
+  <h2 id="related-title">{{ui.relatedTitle}}</h2>
+  <ul class="card-list">{{{relatedHtml}}}</ul>
+</section>
+{{> faq}}
+{{> cta}}
+{{> shell-close}}

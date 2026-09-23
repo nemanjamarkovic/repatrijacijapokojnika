@@ -1,0 +1,87 @@
+{
+  "slug": "hrvatska",
+  "nameSr": "Hrvatska",
+  "nameSrGenitive": "Hrvatske",
+  "nameLocal": "Hrvatska",
+  "h1": "Prevoz pokojnika iz Hrvatske u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Hrvatske u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Hrvatske u Srbiju: dokumentacija, dozvola za transport i dostava. Ovo je polazak ka Srbiji. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Ova stranica je za smrt u Hrvatskoj i drumski prevoz u Srbiju. Hrvatska ovde nije odredište. Upis smrti vodi matični ured. Izvod iz matice umrlih izdaje taj ured, ne naša firma. Dozvola za međunarodni transport je laissez-passer zemlje polaska. Hrvatska je u Evropskoj uniji, Srbija nije, pa na ulasku u Srbiju važe i srpski koraci, uključujući sprovodnicu u praksi. Ministarstvo spoljnih i evropskih poslova Hrvatske je početna strana. Predstavništvo Srbije tražite preko ministarstva u Beogradu. Cenu dajemo po upitu.",
+  "regionNotes": "Ne mešati ovu stranicu sa dostavom u Hrvatsku. Glavno odredište sajta je Srbija. Smrt je nastupila u Hrvatskoj, telo ide ka Srbiji.",
+  "processNotes": "Matični ured u Hrvatskoj upisuje smrt. Granica prema Srbiji i dalje traži dokumenta, iako je put kratak.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Hrvatski organ koji odobri izlazak tela; izvod daje matični ured",
+    "familyPresence": "Zbog blizine dolazak je ponekad lak, ali nije pravilo koje ovde uvodimo. Ured kaže da li prima ovlašćenje.",
+    "quoteInputs": ["mesto u Hrvatskoj", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "izvod iz matice umrlih",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Matični ured",
+      "url": "https://mvep.gov.hr/",
+      "practiceVsLaw": "Matični ured izdaje izvod. Link je početna strana hrvatskog ministarstva spoljnih poslova, ne šalter matice."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Savet Evrope, sporazum ETS 080",
+      "url": "https://rm.coe.int/168007617d",
+      "practiceVsLaw": "Sporazum opisuje dokument koji prati telo. Hrvatski potpisnik proverava se za taj slučaj."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Hrvatskoj",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga matični ured ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi u Hrvatskoj",
+    "Prikupljanje izvoda i dozvole za transport",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Da li je ovo stranica za prevoz u Hrvatsku?",
+      "a": "Nije. Ovde je Hrvatska zemlja polaska, a Srbija glavno odredište. Ako je smrt nastupila negde drugde i telo treba u Hrvatsku, to nije ova stranica i nije osnovna usluga sajta."
+    },
+    {
+      "q": "Zašto granica i dalje traži papire?",
+      "a": "Hrvatska je članica Evropske unije, Srbija nije. Kratak put ne gasi izvod, dozvolu za transport ni praksu sprovodnice za ulazak u Srbiju. Šta tačno traži ulaz, kažu organi, ne ovaj pasus."
+    },
+    {
+      "q": "Gde je matični ured?",
+      "a": "U mestu koje vodi maticu za tu smrt, u Hrvatskoj. Ministarstvo spoljnih poslova nije matični ured. Link ka MVEP je orijentir za državu, ne zamena za šalter matice."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministarstvo vanjskih i europskih poslova",
+      "publisher": "MVEP Hrvatske",
+      "url": "https://mvep.gov.hr/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana ministarstva. Matični ured je i dalje lokalni."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer za međunarodni prevoz."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Imenik predstavništava za srpsku stranu postupka."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

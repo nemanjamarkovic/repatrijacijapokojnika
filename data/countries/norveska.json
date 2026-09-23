@@ -1,0 +1,94 @@
+{
+  "slug": "norveska",
+  "nameSr": "Norveška",
+  "nameSrGenitive": "Norveške",
+  "nameLocal": "Norge",
+  "h1": "Prevoz pokojnika iz Norveške u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Norveške u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Norveške u Srbiju: dokumentacija, dozvola za transport i dostava. Prijava ide preko javnog registra. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Norveške. Put je dug, pa rok ne objavljujemo kao broj dana. Smrt se evidentira u javnom registru stanovništva, a potvrda se na norveškom često zove dødsattest. Zdravstveni portal Helsenorge i stranica vlade su orijentir, ne obrazac koji mi izdajemo. Dozvola za međunarodni transport je laissez-passer zemlje polaska. Predstavništvo Srbije tražite preko ministarstva u Beogradu. Nema gradskih stranica. Cenu računamo po upitu, uz zastoj ako postupak nije zatvoren.",
+  "regionNotes": "Norveška nema gradskih stranica u ovom izdanju. Drum do Srbije je moguć dogovor. Avion nije podrazumevan samo zato što je zemlja daleko.",
+  "processNotes": "Helsenorge je portal za građane o zdravlju. Regjeringen je stranica vlade. Nijedna nije srpski konzulat.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Norveški organ koji odobri izlazak tela; prijava smrti ide preko javnog registra",
+    "familyPresence": "Ovlašćenje je uobičajeno. Organ može tražiti dolazak. To proveravamo, ne garantujemo.",
+    "quoteInputs": ["mesto u Norveškoj", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "dødsattest",
+      "nameSr": "potvrda o smrti",
+      "issuer": "Helsenorge",
+      "url": "https://www.helsenorge.no/",
+      "practiceVsLaw": "Portal objašnjava građanima korake posle smrti. Tačan potpisnik potvrde čita se tamo."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Savet Evrope, sporazum ETS 080",
+      "url": "https://rm.coe.int/168007617d",
+      "practiceVsLaw": "Sporazum opisuje dokument koji prati telo. Norveški šalter nije jedan za sve opštine na ovoj strani."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Norveškoj",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga organ ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje norveške potvrde i dozvole za transport",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Gde porodica čita norveški postupak?",
+      "a": "Početne strane su Helsenorge i vlada Norveške, regjeringen.no. One objašnjavaju građanima šta sledi posle smrti. Mi ih ne zamenjujemo i ne izdajemo norveške papire."
+    },
+    {
+      "q": "Da li je prevoz iz Osla uvek avion?",
+      "a": "Nije. Osnovna usluga je drumski prevoz u Srbiju. Avion je posebna stranica. Iz Norveške drum može biti dogovor, a rok zavisi od rastojanja i papira, ne od slogana."
+    },
+    {
+      "q": "Ko izdaje sprovodnicu za Srbiju?",
+      "a": "Sprovodnicu u praksi izdaje nadležno predstavništvo Srbije. Koje je nadležno za Norvešku piše u imeniku Ministarstva spoljnih poslova Srbije. Telefone ovde ne prepisujemo."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Helsenorge",
+      "publisher": "Norveška",
+      "url": "https://www.helsenorge.no/",
+      "retrieved": "2026-09-23",
+      "note": "Zdravstveni portal za građane. Početna strana."
+    },
+    {
+      "title": "Regjeringen",
+      "publisher": "Vlada Norveške",
+      "url": "https://www.regjeringen.no/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana vlade. Nije obrazac za prevoz."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer za međunarodni prevoz."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Imenik predstavništava. Poddomen ne pogađamo."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

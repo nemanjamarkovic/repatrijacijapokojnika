@@ -1,0 +1,101 @@
+{
+  "slug": "nemacka",
+  "nameSr": "Nemačka",
+  "nameSrGenitive": "Nemačke",
+  "nameLocal": "Deutschland",
+  "h1": "Prevoz pokojnika iz Nemačke u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Nemačke u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Nemačke u Srbiju: dokumentacija, dozvola za transport i dostava. Pravila zavise od pokrajine. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Nemačke, od prikupljanja dokumenata do predaje na odredištu. Smrt se prijavljuje u mesnom matičnom uredu, Standesamt. Dozvolu za međunarodni transport, na nemačkom Leichenpass, izdaje organ pokrajine u kojoj je smrt nastupila, a ne jedno savezno ministarstvo. Između država koje primenjuju sporazum Saveta Evrope telo prati laissez-passer. Za ulazak u Srbiju u praksi se traži i sprovodnica nadležnog predstavništva Srbije.",
+  "regionNotes": "Nema jedne savezne kancelarije za sve gradove. Propisi o sahrani razlikuju se po pokrajini (Bundesland). Stranice nemačkog ministarstva spoljnih poslova o povratku tela u Nemačku ne opisuju polazak iz Nemačke.",
+  "processNotes": "Ambasada Srbije u Berlinu i generalni konzulati imaju objavljena područja. Gradove vezujemo samo uz predstavništvo čije je područje navedeno na zvaničnoj strani.",
+  "keyFacts": {
+    "permitLocal": "Leichenpass",
+    "permitSr": "laissez-passer, dozvola za međunarodni transport",
+    "issuer": "Nadležni organ pokrajine polaska, ne jedno ministarstvo",
+    "familyPresence": "Često nije potreban dolazak ako organ prihvati ovlašćenje. To je praksa, ne pravilo za svaki slučaj.",
+    "quoteInputs": ["mesto preuzimanja u Nemačkoj", "mesto u Srbiji", "da li istraga ili obdukcija još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "Sterbeurkunde",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Standesamt",
+      "url": "",
+      "practiceVsLaw": "Izdaje ga matični ured mesta smrti. Stabilan savezni vodič nismo vezali, da ne bismo poslali na pogrešnu stranu."
+    },
+    {
+      "nameLocal": "Leichenpass",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Savet Evrope, sporazum ETS 080",
+      "url": "https://rm.coe.int/168007617d",
+      "practiceVsLaw": "Sporazum opisuje laissez-passer države polaska. Koji nemački organ ga potpisuje zavisi od pokrajine."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Nemačkoj gde se telo nalazi",
+    "Mesto u Srbiji do kojeg treba stići",
+    "Ovlašćenje kada ga matični ured, pokrajina ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje izvoda i dozvole koju izda pokrajina",
+    "Drumski prevoz i predaja u Srbiji"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Ko u Nemačkoj izdaje Leichenpass?",
+      "a": "Leichenpass je dozvola koja prati telo na međunarodnom putu. Po sporazumu Saveta Evrope izdaje je nadležni organ države polaska. U Nemačkoj to nije jedno savezno ministarstvo: organ je onaj koji odredi pokrajina u kojoj je smrt nastupila."
+    },
+    {
+      "q": "Da li je postupak isti u Berlinu i u Minhenu?",
+      "a": "Nije automatski isti. Berlin i Bavarska su različite pokrajine, a predstavništva Srbije takođe imaju različita područja. Berlin pokriva Ambasada u Berlinu, a Bavarsku Generalni konzulat u Minhenu, kako piše na njihovim stranicama."
+    },
+    {
+      "q": "Da li nemačka ambasada u Beogradu prijavljuje smrt u Nemačkoj?",
+      "a": "Ne. Ambasada Nemačke u Beogradu je nemačko predstavništvo u Srbiji. Smrt u Nemačkoj prijavljuje se u nemačkom matičnom uredu, a za srpsku stranu gledate predstavništvo Srbije čije područje pokriva taj grad."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Model laissez-passer dokumenta. Ne opisuje koji nemački ured potpisuje dozvolu u svakoj pokrajini."
+    },
+    {
+      "title": "Auswärtiges Amt",
+      "publisher": "Ministarstvo spoljnih poslova Nemačke",
+      "url": "https://www.auswaertiges-amt.de/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana ministarstva. Ne koristiti tekstove o dovođenju tela u Nemačku kao pravilo za polazak iz Nemačke."
+    },
+    {
+      "title": "Ambasada Republike Srbije u Nemačkoj",
+      "publisher": "MSP Srbije",
+      "url": "https://berlin.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Područje ambasade: Berlin, Brandenburg, Meklenburg-Prednja Pomeranija, Saksonija, Saksonija-Anhalt i Tiringija."
+    },
+    {
+      "title": "Spisak predstavništava Srbije u Nemačkoj",
+      "publisher": "Generalni konzulat u Frankfurtu",
+      "url": "https://frankfurt.mfa.gov.rs/lat/konzulat/konzulati",
+      "retrieved": "2026-09-23",
+      "note": "Zvaničan spisak pokrajina po predstavništvu. Sa ove strane su uzeti gradovi u Nemačkoj."
+    },
+    {
+      "title": "Ambasada Nemačke u Beogradu",
+      "publisher": "Auswärtiges Amt",
+      "url": "https://belgrad.diplo.de/",
+      "retrieved": "2026-09-23",
+      "note": "Nemačko predstavništvo u Srbiji. Nije organ koji upisuje smrt nastalu u Nemačkoj."
+    }
+  ],
+  "relatedCities": ["berlin", "minhen", "frankfurt", "stutgart", "hamburg", "keln", "diseldorf"],
+  "status": "published"
+}

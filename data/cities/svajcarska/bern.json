@@ -1,0 +1,64 @@
+{
+  "slug": "bern",
+  "parentCountry": "svajcarska",
+  "nameSr": "Bern",
+  "nameLocal": "Bern",
+  "region": "Kanton Bern",
+  "h1": "Prevoz pokojnika iz Berna u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Berna u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Prevoz pokojnika iz Berna u Srbiju. Smrt se prijavljuje u bernskom registru. Ambasada Srbije je u ovom kantonu i navodi ga. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Bern je i kanton i sedište Ambasade Srbije. Smrt se prijavljuje u registru civilnog stanja kantona Bern, ne u ambasadi. Ambasada na strani kontakta navodi kanton Bern među jedanaest kantona. Cirih nije na tom spisku. Prevoz u Srbiju je drumski. Dozvolu za transport izdaje kanton.",
+  "uniqueFacts": [
+    "Ambasada Srbije je u Bernu, ali upis smrti i dalje radi kantonalni registar, ne ambasada.",
+    "Kanton Bern je na spisku te ambasade, dok je kanton Cirih na spisku konzulata u Cirihu."
+  ],
+  "deathRegistration": {
+    "place": "Registar civilnog stanja kantona Bern",
+    "note": "Potvrdu izdaje bernski registar. Ambasada izdaje konzularne akte kada je nadležna, ne švajcarski izvod o smrti."
+  },
+  "consulateOrEmbassy": {
+    "name": "Ambasada Republike Srbije u Bernu",
+    "url": "https://berne.mfa.gov.rs/",
+    "coversNote": "Stranica kontakta navodi kanton Bern u području ambasade, zajedno sa još deset kantona."
+  },
+  "nearbyCitySlugs": [
+    "cirih",
+    "zeneva",
+    "bazel"
+  ],
+  "faq": [
+    {
+      "q": "Da li ambasada u Bernu izdaje švajcarski izvod o smrti?",
+      "a": "Ne. Švajcarski upis radi registar civilnog stanja kantona. Ambasada Srbije je predstavništvo Srbije. Sprovodnica, kada se traži, ide preko tog predstavništva, a izvod ostaje švajcarski papir."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kontakt i područje Ambasade u Bernu",
+      "publisher": "MSP Srbije",
+      "url": "https://berne.mfa.gov.rs/lat/gradjani/kontakt",
+      "retrieved": "2026-09-23",
+      "note": "Kanton Bern je na spisku od jedanaest kantona."
+    },
+    {
+      "title": "Ambasada Srbije u Bernu",
+      "publisher": "MSP Srbije",
+      "url": "https://berne.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana. Telefone ne prepisujemo."
+    }
+  ],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "published",
+  "nameSrGenitive": "Berna"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "srbija",
+  "nameSr": "Srbija",
+  "primary": true,
+  "h1": "Prevoz pokojnika iz Evrope u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Evrope u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Evrope u Srbiju, do mesta koje porodica navede. Dokumenta zemlje polaska putuju sa sandukom. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Srbija je glavno odredište. Telo preuzimamo u zemlji u kojoj se nalazi i vozimo drumom do mesta u Srbiji koje porodica kaže: grad, selo ili pogrebno preduzeće koje porodica sama izabere. Ne biramo groblje umesto porodice. Papiri zemlje polaska idu uz sanduk. Za ulazak u Srbiju u praksi se traži i sprovodnica predstavništva Srbije. Srbija nije u Evropskoj uniji, pa ulaz nije isti kao vožnja unutar unije. Šta tačno traži organ na ulazu, kaže taj organ.",
+  "deliveryNotes": "Dostava je na adresu u Srbiji koju porodica navede, ili pogrebnom preduzeću koje porodica imenuje. Ne držimo spisak partnera i ne tvrdimo da radimo sa određenim grobljem. Ako je mesto teško za vozilo, to kažemo uz ponudu, pre polaska.",
+  "borderNote": "Srbija nije članica Evropske unije. Dozvola zemlje polaska, laissez-passer, prati telo kada je ta zemlja primenjuje. To ne gasi srpski korak na ulazu. U praksi se traži sprovodnica predstavništva Srbije. Carinski i sanitarni uvid, ako ga ima, radi organ na granici, ne ova stranica.",
+  "localFuneralNote": "Porodica u Srbiji može da sačeka vozilo ili da nas uputi na lokalno pogrebno preduzeće. Mi ne organizujemo sahranu umesto tog preduzeća i ne prodajemo mesto na groblju. Ako treba samo prevoz do vrata tog preduzeća, to je dovoljan dogovor.",
+  "sectionOrder": ["hero", "delivery", "border", "local-funeral", "origins", "faq", "sources", "cta"],
+  "faq": [
+    {
+      "q": "Da li vozite u svako mesto u Srbiji?",
+      "a": "Dogovor je za mesto koje porodica navede. Ako prilaz vozilu nije moguć, predaja je na najbližoj tački koju porodica prihvati, ili kod pogrebnog preduzeća. To se kaže pre polaska, ne na granici."
+    },
+    {
+      "q": "Šta organi u Srbiji traže na ulazu?",
+      "a": "Traže dokumenta koja prate telo iz zemlje polaska i, u praksi, sprovodnicu. Spisak se menja i zavisi od slučaja. Merodavan je organ na ulazu i predstavništvo Srbije, ne ovaj pasus. Ministarstvo spoljnih poslova je početna strana za predstavništva."
+    },
+    {
+      "q": "Da li je ovo isto što i prevoz u Bosnu ili Crnu Goru?",
+      "a": "Nije isto odredište. Srbija je glavna usluga. Druge zemlje Balkana imaju kraće stranice i poseban dogovor. Papiri na njihovom ulazu nisu automatski srpski."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana za predstavništva koja u praksi izdaju sprovodnicu. Telefone ne prepisujemo."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Dokument zemlje polaska. Ne znači da srpski ulaz ne traži ništa drugo."
+    }
+  ],
+  "status": "published"
+}

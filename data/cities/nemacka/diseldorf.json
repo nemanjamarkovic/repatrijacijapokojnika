@@ -1,0 +1,62 @@
+{
+  "slug": "diseldorf",
+  "parentCountry": "nemacka",
+  "nameSr": "Diseldorf",
+  "nameLocal": "Düsseldorf",
+  "region": "Severna Rajna-Vestfalija",
+  "h1": "Prevoz pokojnika iz Diseldorfa u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Diseldorfa u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Prevoz pokojnika iz Diseldorfa u Srbiju. Smrt se prijavljuje u diseldorfskom Standesamt-u. Konzulat pokriva Severnu Rajnu-Vestfaliju. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Diseldorf je u Severnoj Rajni-Vestfaliji. Smrt se prijavljuje u matičnom uredu, Standesamt, u Diseldorfu. Generalni konzulat Srbije u Diseldorfu na spisku pokriva celu tu pokrajinu, uključujući Keln. Leichenpass izdaje organ pokrajine, ne konzulat. Prevoz je drumski, u Srbiju.",
+  "uniqueFacts": [
+    "Diseldorf je u Severnoj Rajni-Vestfaliji, najnaseljenijoj nemačkoj pokrajini, sa svojim pravilom o sahrani.",
+    "Generalni konzulat Srbije u Diseldorfu navodi tu pokrajinu, pa i gradove koji nemaju svoj konzulat."
+  ],
+  "deathRegistration": {
+    "place": "Standesamt u Diseldorfu",
+    "note": "Izvod izdaje diseldorfski matični ured. Keln ima svoj ured, iako je predstavništvo Srbije u Diseldorfu."
+  },
+  "consulateOrEmbassy": {
+    "name": "Generalni konzulat Republike Srbije u Diseldorfu",
+    "url": "https://duesseldorf.mfa.gov.rs/",
+    "coversNote": "Spisak predstavništava stavlja Severnu Rajnu-Vestfaliju uz Diseldorf."
+  },
+  "nearbyCitySlugs": [
+    "keln"
+  ],
+  "faq": [
+    {
+      "q": "Da li Keln ima drugi konzulat Srbije?",
+      "a": "Na spisku predstavništava Keln nema zaseban konzulat. Severna Rajna-Vestfalija, u kojoj su i Diseldorf i Keln, navedena je uz Generalni konzulat u Diseldorfu. Matični ured za smrt u Kelnu i dalje je kelnski."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Generalni konzulat u Diseldorfu",
+      "publisher": "MSP Srbije",
+      "url": "https://duesseldorf.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Sajt naveden na zvaničnom spisku."
+    },
+    {
+      "title": "Spisak predstavništava u Nemačkoj",
+      "publisher": "Generalni konzulat u Frankfurtu",
+      "url": "https://frankfurt.mfa.gov.rs/lat/konzulat/konzulati",
+      "retrieved": "2026-09-23",
+      "note": "Severna Rajna-Vestfalija je navedena uz Diseldorf."
+    }
+  ],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "published",
+  "nameSrGenitive": "Diseldorfa"
+}

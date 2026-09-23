@@ -1,0 +1,94 @@
+{
+  "slug": "holandija",
+  "nameSr": "Holandija",
+  "nameSrGenitive": "Holandije",
+  "nameLocal": "Nederland",
+  "h1": "Prevoz pokojnika iz Holandije u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Holandije u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Holandije u Srbiju: dokumentacija, dozvola za transport i dostava. Smrt se prijavljuje u opštini. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Holandije. Smrt se prijavljuje u opštini, gemeente, gde je osoba umrla. Izvod se na holandskom zove overlijdensakte. Dozvola za međunarodni transport je laissez-passer zemlje polaska. Koji šalter je potpisuje proveravamo za tu opštinu, preko stranica vlade, a ne po sećanju. Predstavništvo Srbije tražite na sajtu Ministarstva spoljnih poslova Srbije. Gradske stranice nisu objavljene. Za ulazak u Srbiju u praksi se traži i sprovodnica. Cenu saopštavamo po upitu.",
+  "regionNotes": "Holandija prijavu smrti vodi preko opštine. Nema gradskih stranica u ovom izdanju, jer nema proverenog konzularnog područja po gradu.",
+  "processNotes": "Nederland Wereldwijd i Rijksoverheid su početne strane za građane. Nisu cenovnik prevoza i nisu spisak srpskih konzulata.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Organ koji odredi opština i propis za izlazak tela; proveriti na stranici vlade",
+    "familyPresence": "Ovlašćenje je uobičajen put, ali opština može tražiti dolazak. To nije obećanje da niko ne mora da putuje.",
+    "quoteInputs": ["opština u Holandiji", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "overlijdensakte",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Gemeente",
+      "url": "https://www.rijksoverheid.nl/",
+      "practiceVsLaw": "Opština izdaje izvod. Link je početna strana vlade, ne šalter jedne opštine."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Nederland Wereldwijd",
+      "url": "https://www.nederlandwereldwijd.nl/",
+      "practiceVsLaw": "Stranica za Holanđane u inostranstvu je orijentir. Dozvolu za polazak iz Holandije ipak izdaje organ u Holandiji."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i holandska opština",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga opština ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje overlijdensakte i dozvole za transport",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Gde se u Holandiji prijavljuje smrt?",
+      "a": "Smrt se prijavljuje u opštini, gemeente, na čijem području je osoba umrla. Izvod se zove overlijdensakte. To radi opština, ne ambasada Srbije i ne naša dispečerska služba."
+    },
+    {
+      "q": "Čemu služi Nederland Wereldwijd?",
+      "a": "To je servis holandske vlade za građane u inostranstvu. Koristan je kao početna strana, ali ne zamenjuje opštinski izvod ni dozvolu za polazak tela iz Holandije prema Srbiji."
+    },
+    {
+      "q": "Da li postoje stranice za Amsterdam ili Hag?",
+      "a": "Ne u ovom izdanju. Gradska stranica traži provereno predstavništvo Srbije za taj grad i podatak koji nije kopija ove državne stranice. Dok toga nema, važi ova stranica za celu Holandiju."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer države polaska."
+    },
+    {
+      "title": "Rijksoverheid",
+      "publisher": "Vlada Holandije",
+      "url": "https://www.rijksoverheid.nl/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana vlade. Opštinski šalter je i dalje gemeente."
+    },
+    {
+      "title": "Nederland Wereldwijd",
+      "publisher": "Vlada Holandije",
+      "url": "https://www.nederlandwereldwijd.nl/",
+      "retrieved": "2026-09-23",
+      "note": "Informacije za holandske građane u inostranstvu. Nije dozvola za polazak iz Holandije."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Predstavništvo Srbije tražite na sajtu ministarstva. Telefone ne prepisujemo."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

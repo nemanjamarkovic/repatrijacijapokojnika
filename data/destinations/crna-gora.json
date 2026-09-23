@@ -1,0 +1,41 @@
+{
+  "slug": "crna-gora",
+  "nameSr": "Crna Gora",
+  "primary": false,
+  "h1": "Prevoz pokojnika iz Evrope u Crnu Goru",
+  "seoTitle": "Prevoz pokojnika iz Evrope u Crnu Goru | {{BRAND_NAME}}",
+  "seoDescription": "Dostavu pokojnika u Crnu Goru organizujemo pored prevoza u Srbiju. Ulaz u Crnu Goru ima svoj korak. Cenu i rok dobijate po konkretnom upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Glavno odredište je Srbija. Dostavu u Crnu Goru organizujemo kada porodica to traži. Telo kreće iz zemlje u kojoj se nalazi, sa dokumentima te zemlje. Crna Gora na ulazu može tražiti svoju dozvolu. Naziv i ured ne izmišljamo. Početna strana vlade je orijentir. Predaja je porodici ili pogrebnom preduzeću koje porodica imenuje u Crnoj Gori.",
+  "deliveryNotes": "Mesto u Crnoj Gori kaže porodica. Ako je prilaz uzak, predaja je na dogovorenoj tački. To stoji u ponudi pre polaska.",
+  "borderNote": "Ulaz u Crnu Goru nije srpski ulaz. Dozvola zemlje polaska prati telo. Crnogorski organ može tražiti dodatni papir. Ne navodimo broj propisa koji nismo otvorili.",
+  "localFuneralNote": "Sahranu vodi preduzeće koje porodica izabere u Crnoj Gori. Mi predajemo telo i papire koje smo poveli.",
+  "sectionOrder": ["hero", "delivery", "border", "local-funeral", "origins", "faq", "sources", "cta"],
+  "faq": [
+    {
+      "q": "Da li je Crna Gora isto odredište kao Srbija?",
+      "a": "Nije. Država, ulaz i pogrebno preduzeće su drugi. Srbija je glavna usluga sajta. Crna Gora je dogovor pored toga."
+    },
+    {
+      "q": "Gde čitati crnogorski korak?",
+      "a": "Na stranici Vlade Crne Gore, kod nadležnog ministarstva. Ovde je samo početna strana, da porodica ima zvaničan ulaz, ne naš prepričani propis."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Vlada Crne Gore",
+      "publisher": "Vlada Crne Gore",
+      "url": "https://www.gov.me/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana. Ministarstvo spoljnih poslova tražite unutar sajta, bez nagađanja duboke adrese."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Dokument zemlje polaska."
+    }
+  ],
+  "status": "published"
+}

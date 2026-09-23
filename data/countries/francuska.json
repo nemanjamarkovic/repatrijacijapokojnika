@@ -1,0 +1,87 @@
+{
+  "slug": "francuska",
+  "nameSr": "Francuska",
+  "nameSrGenitive": "Francuske",
+  "nameLocal": "France",
+  "h1": "Prevoz pokojnika iz Francuske u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Francuske u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Francuske u Srbiju: dokumentacija, dozvola za transport i dostava. Polazna tačka je matični ured. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Francuske. Smrt se upisuje u matičnoj službi opštine, na francuskom acte de décès. Dozvola koja prati telo zove se laissez-passer mortuaire. U praksi je izdaje prefektura područja, ne ambasada u Beogradu. To je upravni običaj koji proveravamo za taj departman, ne član zakona prepisan ovde. Ambasada Srbije u Parizu ima zvaničan sajt; gradove po Francuskoj ne delimo dok područje ne piše na toj strani.",
+  "regionNotes": "Francuska je podeljena na departmane. Matični ured je u opštini smrti. Gradske stranice nisu u ovom izdanju.",
+  "processNotes": "Link ka Ambasadi Srbije u Parizu je početna strana predstavništva. Ne znači da svaki francuski grad pripada istoj konzularnoj šalter-sali bez provere područja.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer mortuaire",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "U praksi prefektura departmana; početna strana ministarstva je orijentir",
+    "familyPresence": "Ovlašćenje često dovoljno, ali prefektura može tražiti dolazak. To proveravamo, ne pretpostavljamo.",
+    "quoteInputs": ["mesto preuzimanja u Francuskoj", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "acte de décès",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Mairie",
+      "url": "",
+      "practiceVsLaw": "Opštinska matična služba izdaje izvod. Nema jednog linka koji pokriva sve opštine."
+    },
+    {
+      "nameLocal": "laissez-passer mortuaire",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Service-Public",
+      "url": "https://www.service-public.fr/",
+      "practiceVsLaw": "Portal za građane. Lokalni potpisnik dozvole je, u praksi, prefektura, ne ovaj portal."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Francuskoj",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga opština, prefektura ili ambasada zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje izvoda i laissez-passer mortuaire",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Kako se na francuskom zove izvod o smrti?",
+      "a": "Izvod se zove acte de décès i izdaje ga matična služba opštine, mairie. To nije isto što i laissez-passer mortuaire, dozvola da telo pređe granicu. Oba papira idu uz prevoz u Srbiju."
+    },
+    {
+      "q": "Da li ambasada u Parizu pokriva svaki grad?",
+      "a": "Sajt Ambasade Srbije u Parizu je zvaničan. Koje departmane pokriva samo Pariz, a gde postoji drugi konzulat, piše na stranici ministarstva ili ambasade. Dok to ne pročitamo za konkretan grad, ne pravimo gradsku stranicu."
+    },
+    {
+      "q": "Da li porodica mora u Francusku?",
+      "a": "Često ne, ako prefektura i matični ured prihvate ovlašćenje. Neke prefekture traže lično prisustvo ili poseban oblik punomoćja. To saznajemo za taj departman, ne iz opšte rečenice."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer koji prati telo."
+    },
+    {
+      "title": "Service-Public",
+      "publisher": "Francuska država",
+      "url": "https://www.service-public.fr/",
+      "retrieved": "2026-09-23",
+      "note": "Portal za građane. Početna strana France Diplomatie nije primila vezu u proveri 23. 9. 2026, zato je ovde portal."
+    },
+    {
+      "title": "Ambasada Republike Srbije u Francuskoj",
+      "publisher": "MSP Srbije",
+      "url": "https://paris.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Sajt naveden u imeniku ministarstva. Područje po gradovima proveriti na sajtu pre gradske stranice."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

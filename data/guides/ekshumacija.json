@@ -1,0 +1,51 @@
+{
+  "slug": "ekshumacija",
+  "navLabel": "Ekshumacija",
+  "h1": "Ekshumacija i prenos posmrtnih ostataka",
+  "eyebrow": "Kada je osoba već sahranjena",
+  "seoTitle": "Ekshumacija i prenos posmrtnih ostataka | {{BRAND_NAME}}",
+  "seoDescription": "Ekshumacija pre prenosa u Srbiju traži dozvolu zemlje u kojoj je grob. Ne opisujemo otvaranje groba. Rok je duži nego iz mrtvačnice. Pozovite nas.",
+  "reviewed": "2026-09-23",
+  "summary": "Ako je osoba već sahranjena, prenos u Srbiju kreće tek kada zemlja groba dozvoli ekshumaciju. To je upravni korak, ne medicinski postupak i ne uputstvo kako se grob otvara. Taj deo rade organi i ovlašćena služba tamo. Mi organizujemo prevoz kada dozvola postoji i kada su papiri za međunarodni put spremni. Rok je duži nego kada je telo u mrtvačnici.",
+  "faqTitle": "Pitanja o ekshumaciji",
+  "howTo": false,
+  "autoLinkDocuments": false,
+  "relatedCountrySlugs": ["nemacka", "austrija", "svajcarska", "italija", "francuska"],
+  "sections": [
+    {
+      "id": "dozvola-groba",
+      "heading": "Dozvola zemlje u kojoj je grob",
+      "paragraphs": [
+        "Grob je pod pravilima države i groblja gde se nalazi. Dozvolu za ekshumaciju izdaje njihov organ. Bez tog papira nema prenosa. Ne navodimo rok u danima, jer groblje i godišnje doba nisu isti svuda."
+      ]
+    },
+    {
+      "id": "posle-dozvole",
+      "heading": "Šta ide posle dozvole",
+      "paragraphs": [
+        "Kada je ekshumacija dozvoljena, sledi isti međunarodni okvir kao za drugi prevoz: dokument koji prati ostatke i, za Srbiju, u praksi sprovodnica. Sanduk i dalje mora da ispuni ono što organ polaska traži.",
+        "Ne opisujemo alat, dubinu ni način otvaranja. To nije deo ovog sajta."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Da li je ekshumacija ista usluga kao preuzimanje iz mrtvačnice?",
+      "a": "Nije. Iz mrtvačnice telo je već dostupno ovlašćenoj službi. Kod groba prvo ide dozvola zemlje u kojoj je sahrana. Zato je dogovor duži i posebno se kaže u ponudi."
+    },
+    {
+      "q": "Da li ovde piše kako se grob otvara?",
+      "a": "Ne. To rade organi i služba koja ima dozvolu na tom groblju. Mi prevozimo kada je taj korak završen i kada papiri za put u Srbiju postoje."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Sporazum pominje da država polaska proverava i pravila o ekshumaciji pre izdavanja laissez-passer. Nije uputstvo za otvaranje groba."
+    }
+  ],
+  "status": "published"
+}

@@ -1,0 +1,28 @@
+{{> shell-open}}
+<header class="page-hero" id="hero">
+  <p class="eyebrow">{{eyebrow}}</p>
+  <h1>{{h1}}</h1>
+  <p class="lead">{{summary}}</p>
+  <p class="reviewed">{{ui.reviewed}}: <time datetime="{{reviewed}}">{{reviewedDisplay}}</time></p>
+  <p class="disclaimer">{{disclaimer}}</p>
+</header>
+<section class="panel" id="delivery" aria-labelledby="delivery-title">
+  <h2 id="delivery-title">{{ui.deliveryTitle}}</h2>
+  <p>{{deliveryNotes}}</p>
+</section>
+<section class="panel" id="border" aria-labelledby="border-title">
+  <h2 id="border-title">{{ui.borderTitle}}</h2>
+  <p>{{borderNote}}</p>
+</section>
+<section class="panel" id="local-funeral" aria-labelledby="funeral-title">
+  <h2 id="funeral-title">{{ui.localFuneralTitle}}</h2>
+  <p>{{localFuneralNote}}</p>
+</section>
+<section class="panel" id="origins" aria-labelledby="origins-title">
+  <h2 id="origins-title">{{ui.originsTitle}}</h2>
+  <ul class="card-list">{{{originsHtml}}}</ul>
+</section>
+{{> sources}}
+{{> faq}}
+{{> cta}}
+{{> shell-close}}

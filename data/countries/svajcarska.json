@@ -1,0 +1,94 @@
+{
+  "slug": "svajcarska",
+  "nameSr": "Švajcarska",
+  "nameSrGenitive": "Švajcarske",
+  "nameLocal": "Schweiz",
+  "h1": "Prevoz pokojnika iz Švajcarske u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Švajcarske u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Švajcarske u Srbiju: dokumentacija, dozvola i dostava. Postupak zavisi od kantona. Cenu i rok dobijate po upitu, ne unapred.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Švajcarske. Smrt se prijavljuje u kantonalnom ili opštinskom registru, Zivilstandsamt, i taj korak nije isti u svakom kantonu. Dozvola za međunarodni transport prati telo; naziv i šalter zavise od kantona polaska. Ambasada Srbije u Bernu objavljuje jedanaest kantona, među njima Bern, Bazel i Ženevu. Generalni konzulat u Cirihu objavljuje svoj spisak, na kome je kanton Cirih. Za ulazak u Srbiju u praksi ide i sprovodnica.",
+  "regionNotes": "Švajcarska nema jedno pravilo za sve kantone. Stranicu grada vezujemo uz predstavništvo Srbije samo kada taj kanton piše na zvaničnom spisku područja.",
+  "processNotes": "Cirih ide preko Generalnog konzulata u Cirihu. Bern, Bazel i Ženeva idu preko Ambasade u Bernu, jer ti kantoni stoje na njenom spisku.",
+  "keyFacts": {
+    "permitLocal": "Leichenpass / laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Organ kantona polaska",
+    "familyPresence": "Lični dolazak nije uvek uslov ako kanton prihvati ovlašćenje. To je praksa koju proveravamo za taj kanton.",
+    "quoteInputs": ["kanton i mesto preuzimanja", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "Todesbescheinigung",
+      "nameSr": "potvrda o smrti",
+      "issuer": "Zivilstandsamt",
+      "url": "",
+      "practiceVsLaw": "Registar civilnog stanja vodi kanton ili opština. Naziv obrasca nije isti u Cirihu i u Ženevi."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Savet Evrope, sporazum ETS 080",
+      "url": "https://rm.coe.int/168007617d",
+      "practiceVsLaw": "Sporazum opisuje dokument koji prati telo. Švajcarski potpisnik je organ kantona, ne savezna ambasada."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog, kanton i mesto gde se telo nalazi",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga kanton ili predstavništvo Srbije zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi u kantonu",
+    "Prikupljanje potvrde i dozvole tog kantona",
+    "Drumski prevoz do Srbije"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Zašto kanton menja postupak?",
+      "a": "Civilno stanje i sahrana u Švajcarskoj uređeni su po kantonima. Cirih i Ženeva nemaju isti šalter. Zato na gradskim stranicama piše koji kanton je u pitanju i koje predstavništvo Srbije taj kanton navodi na svom spisku."
+    },
+    {
+      "q": "Koje predstavništvo Srbije pokriva Cirih, a koje Ženevu?",
+      "a": "Kanton Cirih stoji na spisku Generalnog konzulata u Cirihu. Kanton Ženeva stoji na spisku Ambasade u Bernu, zajedno sa Bernom i Bazelom. To su podaci sa stranica tih predstavništava, ne procena po karti."
+    },
+    {
+      "q": "Da li je laissez-passer isti u svim kantonima?",
+      "a": "Sporazum Saveta Evrope opisuje jedan tip dokumenta, laissez-passer. Koji švajcarski organ ga popunjava i kako se lokalno zove zavisi od kantona polaska. Ne postoji jedan savezni obrazac koji ovde možemo da navedemo za sve gradove."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer države polaska. Ne zamenjuje kantonalni registar."
+    },
+    {
+      "title": "Švajcarski savezni departman spoljnih poslova",
+      "publisher": "EDA",
+      "url": "https://www.eda.admin.ch/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana. Kantonalna pravila o sahrani nisu na jednoj saveznoj stranici."
+    },
+    {
+      "title": "Konzularno područje Ambasade Srbije u Bernu",
+      "publisher": "MSP Srbije",
+      "url": "https://berne.mfa.gov.rs/lat/gradjani/kontakt",
+      "retrieved": "2026-09-23",
+      "note": "Spisak od 11 kantona, uključujući Bern, Basel-Stadt, Basel-Landschaft i Ženevu."
+    },
+    {
+      "title": "Nadležnost Generalnog konzulata u Cirihu",
+      "publisher": "MSP Srbije",
+      "url": "https://zurich.mfa.gov.rs/lat/konzulat/nadleznost",
+      "retrieved": "2026-09-23",
+      "note": "Spisak kantona konzulata, uključujući Cirih. Tu je i Lihtenštajn, koji nije grad na ovom sajtu."
+    }
+  ],
+  "relatedCities": ["cirih", "zeneva", "bazel", "bern"],
+  "status": "published"
+}

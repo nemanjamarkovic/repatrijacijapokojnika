@@ -1,0 +1,62 @@
+{
+  "slug": "minhen",
+  "parentCountry": "nemacka",
+  "nameSr": "Minhen",
+  "nameLocal": "München",
+  "region": "Bavarska",
+  "h1": "Prevoz pokojnika iz Minhena u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Minhena u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Prevoz pokojnika iz Minhena u Srbiju. Smrt se prijavljuje u minhenskom Standesamt-u. Konzulat Srbije pokriva Bavarsku. Cenu i rok dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Minhen je u Bavarskoj. Smrt se prijavljuje u matičnom uredu, Standesamt, u Minhenu. Generalni konzulat Srbije u Minhenu na zvaničnom spisku pokriva Bavarsku. Ambasada u Berlinu tu pokrajinu ne navodi. Leichenpass izdaje bavarski organ, ne berlinski šalter.",
+  "uniqueFacts": [
+    "Minhen je u pokrajini Bavarska, čije pravilo o sahrani nije berlinsko.",
+    "Generalni konzulat Srbije u Minhenu navodi Bavarsku kao svoje područje."
+  ],
+  "deathRegistration": {
+    "place": "Standesamt u Minhenu",
+    "note": "Izvod izdaje matični ured mesta smrti u Minhenu. Ako je smrt bila u drugom bavarskom gradu, ured je taj grad, a konzulat i dalje može biti minhenski."
+  },
+  "consulateOrEmbassy": {
+    "name": "Generalni konzulat Republike Srbije u Minhenu",
+    "url": "https://munich.mfa.gov.rs/lat",
+    "coversNote": "Na spisku predstavništava pokrajina uz Minhen je Bavarska. Ova stranica je za grad Minhen, ne za svaki bavarski grad."
+  },
+  "nearbyCitySlugs": [
+    "stutgart"
+  ],
+  "faq": [
+    {
+      "q": "Da li smrt u Minhenu ide preko ambasade u Berlinu?",
+      "a": "Ne za konzularno područje. Spisak predstavništava stavlja Bavarsku uz Generalni konzulat u Minhenu. Ambasada u Berlinu navodi druge pokrajine. Matični ured je i dalje u Minhenu, ne u ambasadi."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Generalni konzulat u Minhenu",
+      "publisher": "MSP Srbije",
+      "url": "https://munich.mfa.gov.rs/lat",
+      "retrieved": "2026-09-23",
+      "note": "Sajt konzulata. Telefone ne prepisujemo."
+    },
+    {
+      "title": "Spisak predstavništava u Nemačkoj",
+      "publisher": "Generalni konzulat u Frankfurtu",
+      "url": "https://frankfurt.mfa.gov.rs/lat/konzulat/konzulati",
+      "retrieved": "2026-09-23",
+      "note": "Bavarska je navedena uz Minhen."
+    }
+  ],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "published",
+  "nameSrGenitive": "Minhena"
+}

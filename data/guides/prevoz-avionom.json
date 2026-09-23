@@ -1,0 +1,50 @@
+{
+  "slug": "prevoz-avionom",
+  "navLabel": "Prevoz avionom",
+  "h1": "Prevoz pokojnika avionom van Evrope",
+  "eyebrow": "Kratko, bez gradova",
+  "seoTitle": "Prevoz pokojnika avionom van Evrope | {{BRAND_NAME}}",
+  "seoDescription": "Avionski prevoz pokojnika van Evrope nije isto što i drum u Srbiju. Važe pravila aviokompanije i sanduk koji organ prizna. Cena ide po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Osnovna usluga sajta je drumski prevoz u Srbiju iz evropskih zemalja. Avion dolazi u obzir kada je smrt van Evrope ili kada drum nije put. Tada važe pravila aerodroma i aviokompanije, pored dozvole zemlje polaska. Sporazum Saveta Evrope za vazdušni prevoz traži da sanduk ispuni ono što organ polaska prizna. Nema stranica za američke ili druge gradove. Upit ide posebno, sa mestom i aerodromom.",
+  "faqTitle": "Pitanja o avionu",
+  "howTo": false,
+  "autoLinkDocuments": false,
+  "relatedCountrySlugs": ["nemacka", "austrija", "svajcarska"],
+  "sections": [
+    {
+      "id": "kada",
+      "heading": "Kada avion uopšte dolazi u obzir",
+      "paragraphs": [
+        "Iz Nemačke, Austrije ili Švajcarske u Srbiju dogovor je drum, osim ako porodica i organi kažu drugačije. Avion je za prekookeanska mesta i za slučaj kada kopneni put nije izvodljiv. Ostrvo u Grčkoj nije automatski avionska stranica: prvo se gleda luka, pa drum."
+      ]
+    },
+    {
+      "id": "pravila",
+      "heading": "Šta je drugačije u odnosu na drum",
+      "paragraphs": [
+        "Aviokompanija i aerodrom imaju svoj prijem tereta. Sanduk za vazduh mora da ispuni uslov organa zemlje polaska. To nije isti razgovor kao utovar u drumsko vozilo. Ne pravimo spisak gradova i ne dajemo cenu leta na ovoj strani."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Da li iz Amerike vozite drumom?",
+      "a": "Ne. Prekookeanski prevoz, kada ga organizujemo, ide avionom do Evrope ili do regiona, pa dalje po dogovoru. Nema gradskih stranica za američke gradove u ovom izdanju. Upit mora imati mesto smrti."
+    },
+    {
+      "q": "Gde je cena karata?",
+      "a": "Nema je. Cena leta, takse aerodroma i sanduk koji organ traži nisu broj koji stoji unapred. Ponuda ide po konkretnom mestu, kao i za drum."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Za vazdušni prevoz sporazum traži da sanduk ispuni uslov koji prizna organ zemlje polaska."
+    }
+  ],
+  "status": "published"
+}

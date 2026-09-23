@@ -1,0 +1,45 @@
+{
+  "h1": "Prevoz pokojnika iz inostranstva u Srbiju",
+  "eyebrow": "Drumski prevoz, pre svega u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz inostranstva u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Porodicama u Srbiji organizujemo drumski prevoz pokojnika iz inostranstva, dokumentaciju i dostavu. Ostale zemlje Balkana po dogovoru. Cena stiže po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Ovaj sajt je za porodicu koja treba da organizuje drumski prevoz pokojnika iz inostranstva u Srbiju. Preuzimamo dogovor sa mestom gde se preminuli nalazi, prikupljanje dokumenata i sam prevoz do mesta koje porodica navede u Srbiji. Ne zamenjujemo matični ured, policiju ni ambasadu. Bosna i Hercegovina, Crna Gora i Severna Makedonija mogu biti odredište kada to posebno tražite. Cenu i rok ne objavljujemo unapred, jer zavise od adrese preuzimanja i od toga da li je postupak pred organima završen.",
+  "facts": [
+    { "label": "Kome je usluga", "value": "Porodici koja organizuje prevoz preminulog u Srbiju, iz zemlje u kojoj je smrt nastupila ili u kojoj se telo nalazi." },
+    { "label": "Šta organizujemo", "value": "Drumski prevoz, prikupljanje dokumenata, dozvolu za transport u zemlji polaska i predaju u Srbiji." },
+    { "label": "Šta porodica daje", "value": "Ime preminulog, mesto gde se telo nalazi, mesto u Srbiji i ovlašćenje kada ga organ zatraži." },
+    { "label": "Kako nastaje ponuda", "value": "Po adresi preuzimanja, adresi u Srbiji i tome da li istraga, obdukcija ili drugi postupak još traje." },
+    { "label": "Druga odredišta", "value": "Bosna i Hercegovina, Crna Gora i Severna Makedonija, kada porodica to traži. Glavno odredište je Srbija." }
+  ],
+  "steps": [
+    { "title": "Javite gde i kuda", "body": "Kažete nam gde se preminuli nalazi i u koje mesto u Srbiji treba da stigne. Bez te dve adrese nema ozbiljne procene." },
+    { "title": "Papiri u zemlji polaska", "body": "U kontaktu smo sa mestom gde se telo nalazi i sa organom koji izdaje izvod i dozvolu za transport. Šta tačno traže zavisi od zemlje." },
+    { "title": "Dozvola i sprovodnica", "body": "Telo na međunarodnom putu prati dozvola zemlje polaska. Za ulazak u Srbiju u praksi se sređuje i sprovodnica nadležnog predstavništva Srbije." },
+    { "title": "Sanduk po pravilima puta", "body": "Sanduk mora da ispuni ono što traži organ zemlje polaska. Kada taj organ traži sanduk iz sporazuma Saveta Evrope, to ulazi u ponudu." },
+    { "title": "Put i predaja u Srbiji", "body": "Vozilo ide drumom do mesta koje ste naveli. Predaja je porodici ili pogrebnom preduzeću koje porodica odabere u Srbiji." }
+  ],
+  "faq": [
+    { "q": "Da li je glavno odredište Srbija?", "a": "Da. Sajt i usluga su prvenstveno za drumski prevoz pokojnika u Srbiju. Dostavu u Bosnu i Hercegovinu, Crnu Goru i Severnu Makedoniju organizujemo kada porodica to posebno traži." },
+    { "q": "Da li porodica mora da putuje u inostranstvo?", "a": "Često ne, ako organ u zemlji polaska prihvati ovlašćenje. To je praksa, ne pravilo koje važi u svakom gradu. Ako organ traži lični dolazak, to vam kažemo pre polaska." },
+    { "q": "Koliko traje prevoz?", "a": "Nema jednog roka za sve zemlje. Trajanje zavisi od udaljenosti, radnog vremena organa i toga da li je istraga ili obdukcija još u toku. Rok dobijate uz ponudu, ne kao obećanje sa ove stranice." },
+    { "q": "Gde je cena?", "a": "Cenu ne objavljujemo kao broj, jer je svako preuzimanje drugačije. Na cenu utiču rastojanje, sanduk koji organ zatraži, dozvole i zastoj ako postupak pred organima nije zatvoren." },
+    { "q": "Koje dokumente vi ne izdajete?", "a": "Izvod iz matične knjige umrlih i dozvolu za transport izdaju organi zemlje polaska. Mi te dokumente prikupljamo i vozimo sa sandukom. Ne zamenjujemo matičara, sud ni ambasadu." }
+  ],
+  "sources": [
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer koji prati telo između država koje primenjuju sporazum."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Republike Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Polazna stranica za predstavništva Srbije. Telefone ambasada ne prepisujemo ovde."
+    }
+  ]
+}

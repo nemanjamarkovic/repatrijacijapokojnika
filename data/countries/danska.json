@@ -1,0 +1,87 @@
+{
+  "slug": "danska",
+  "nameSr": "Danska",
+  "nameSrGenitive": "Danske",
+  "nameLocal": "Danmark",
+  "h1": "Prevoz pokojnika iz Danske u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Danske u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Danske u Srbiju: dokumentacija, dozvola za transport i dostava. Vodič za građane je na borger.dk. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Danske. Javni vodič za građane je borger.dk. Tamo se traži šta porodica radi posle smrti, uključujući prijavu. Izvod i lekarska potvrda na danskom često idu pod nazivom dødsattest, ali tačan obrazac treba pročitati na tom vodiču, ne ovde kao zakon. Dozvola za međunarodni transport je laissez-passer zemlje polaska. Predstavništvo Srbije otvarate preko ministarstva u Beogradu. Nema gradskih stranica. Put do Srbije je dug, pa rok zavisi od adresa i papira.",
+  "regionNotes": "Danska za građanske procedure upućuje na borger.dk. To je vodič, ne dozvola koju mi izdajemo. Gradske stranice nisu u ovom izdanju.",
+  "processNotes": "Kopenhagen i drugi gradovi dele ovu državnu stranicu dok ne bude proverenog lokalnog podatka i predstavništva Srbije za taj grad.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Danski organ koji odobri izlazak tela; građanski vodič je borger.dk",
+    "familyPresence": "Ovlašćenje je čest put. Danski organ i dalje može tražiti lični dolazak. To proveravamo za slučaj.",
+    "quoteInputs": ["mesto u Danskoj", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "dødsattest",
+      "nameSr": "potvrda o smrti",
+      "issuer": "borger.dk",
+      "url": "https://www.borger.dk/",
+      "practiceVsLaw": "Vodič za građane objašnjava prijavu. Ko potpisuje potvrdu u konkretnom gradu piše tamo, ne u ovom pasusu."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Savet Evrope, sporazum ETS 080",
+      "url": "https://rm.coe.int/168007617d",
+      "practiceVsLaw": "Sporazum opisuje dokument koji prati telo između država koje ga primenjuju."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Danskoj",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga danski organ ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje danske potvrde i dozvole za transport",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Šta je borger.dk?",
+      "a": "borger.dk je zvanični vodič danske države za građane. Tamo se gleda prijava smrti i koji organ je sledeći. Mi taj sajt ne zamenjujemo i ne izdajemo danske papire."
+    },
+    {
+      "q": "Kako se zove potvrda o smrti?",
+      "a": "U danskom jeziku često se kaže dødsattest. Da li je u vašem slučaju taj naziv na obrascu, proverite na borger.dk ili kod organa koji ga izdaje. Na srpskom je to potvrda o smrti, a izvod je poseban papir ako ga traže."
+    },
+    {
+      "q": "Da li vozite i sa Grenlanda?",
+      "a": "Ova stranica je za Dansku u Evropi i drumski put ka Srbiji. Grenland i daleka područja nisu gradske stranice i obično nisu drum. Takav upit ide posebno, često uz avionski prevoz."
+    }
+  ],
+  "sources": [
+    {
+      "title": "borger.dk",
+      "publisher": "Danska država",
+      "url": "https://www.borger.dk/",
+      "retrieved": "2026-09-23",
+      "note": "Vodič za građane. Početna strana, bez krhkog dubinskog linka."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer za međunarodni prevoz."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Imenik predstavništava. Poddomen za Dansku ne pogađamo."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

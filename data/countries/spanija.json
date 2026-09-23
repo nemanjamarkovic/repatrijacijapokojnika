@@ -1,0 +1,87 @@
+{
+  "slug": "spanija",
+  "nameSr": "Španija",
+  "nameSrGenitive": "Španije",
+  "nameLocal": "España",
+  "h1": "Prevoz pokojnika iz Španije u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Španije u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Drumski prevoz pokojnika iz Španije u Srbiju: dokumentacija, dozvola za transport i dostava. Upis smrti vodi civilni registar. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Porodicama koje preminulog vraćaju u Srbiju organizujemo drumski prevoz iz Španije. Upis smrti vodi civilni registar, Registro Civil. Izvod se na španskom zove certificado de defunción. Dozvola da telo izađe iz Španije je poseban papir, laissez-passer, i izdaje je španski organ, ne ambasada u Beogradu. Autonomne zajednice nemaju isti šalter, zato nema gradskih stranica za Madrid ili Barselonu u ovom izdanju. Predstavništvo Srbije tražite na sajtu ministarstva. Za ulazak u Srbiju u praksi ide i sprovodnica. Cenu dajemo po upitu.",
+  "regionNotes": "Španija ima autonomne zajednice. Civilni registar nije jedan šalter za sve gradove. Gradske stranice nisu objavljene.",
+  "processNotes": "Ministarstvo spoljnih poslova Španije je početna strana za konzularna pitanja. Nije matični ured koji upisuje smrt.",
+  "keyFacts": {
+    "permitLocal": "laissez-passer",
+    "permitSr": "dozvola za međunarodni transport",
+    "issuer": "Španski organ koji odobri izlazak tela; izvod daje Registro Civil",
+    "familyPresence": "Ovlašćenje je često dovoljno. Registar ili organ za dozvolu može tražiti dolazak. To nije isto u svakoj pokrajini.",
+    "quoteInputs": ["mesto u Španiji", "mesto u Srbiji", "da li postupak pred organima još traje"]
+  },
+  "documents": [
+    {
+      "nameLocal": "certificado de defunción",
+      "nameSr": "izvod iz matične knjige umrlih",
+      "issuer": "Registro Civil",
+      "url": "",
+      "practiceVsLaw": "Civilni registar izdaje izvod. Link ka jednom registru ne pokriva sve autonomne zajednice, zato ga nema."
+    },
+    {
+      "nameLocal": "laissez-passer",
+      "nameSr": "dozvola za međunarodni transport",
+      "issuer": "Ministerio de Asuntos Exteriores",
+      "url": "https://www.exteriores.gob.es/",
+      "practiceVsLaw": "Početna strana ministarstva. Dozvolu za polazak ipak izdaje organ u Španiji, ne srpska ambasada."
+    }
+  ],
+  "familyMustProvide": [
+    "Ime preminulog i mesto u Španiji",
+    "Mesto u Srbiji",
+    "Ovlašćenje ako ga registar ili predstavništvo zatraži"
+  ],
+  "companyHandles": [
+    "Dogovor sa mestom gde se telo nalazi",
+    "Prikupljanje izvoda i dozvole za transport",
+    "Drumski prevoz u Srbiju"
+  ],
+  "destinationSlugs": ["srbija", "bosna-i-hercegovina", "crna-gora", "severna-makedonija"],
+  "sectionOrder": ["hero", "key-facts", "roles", "documents", "routes", "cities", "sources", "faq", "cta"],
+  "faq": [
+    {
+      "q": "Ko u Španiji izdaje izvod o smrti?",
+      "a": "Izvod, certificado de defunción, izdaje civilni registar, Registro Civil. To nije ministarstvo spoljnih poslova i nije naša firma. Registar je vezan za mesto smrti, pa nije isti šalter u svakom gradu."
+    },
+    {
+      "q": "Zašto nema stranice za Madrid?",
+      "a": "Gradska stranica mora imati lokalni podatak i predstavništvo Srbije čije područje piše na zvaničnoj strani. To za španske gradove još nije zatvoreno, pa ostaje jedna stranica za Španiju."
+    },
+    {
+      "q": "Da li kanarska ostrva idu drumom?",
+      "a": "Drum važi za kopno kada je put izvodljiv. Sa ostrva telo prvo mora do luke ili aerodroma, pa tek onda u drumski deo ka Srbiji. Taj korak nije ista ponuda kao preuzimanje u Madridu i dogovara se posebno."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministerio de Asuntos Exteriores",
+      "publisher": "Ministarstvo spoljnih poslova Španije",
+      "url": "https://www.exteriores.gob.es/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana ministarstva. Nije civilni registar."
+    },
+    {
+      "title": "Agreement on the Transfer of Corpses (ETS br. 080)",
+      "publisher": "Savet Evrope",
+      "url": "https://rm.coe.int/168007617d",
+      "retrieved": "2026-09-23",
+      "note": "Laissez-passer za međunarodni prevoz tela."
+    },
+    {
+      "title": "Ministarstvo spoljnih poslova Srbije",
+      "publisher": "MSP Srbije",
+      "url": "https://www.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Imenik predstavništava Srbije. Telefone ambasada ne prepisujemo."
+    }
+  ],
+  "relatedCities": [],
+  "status": "published"
+}

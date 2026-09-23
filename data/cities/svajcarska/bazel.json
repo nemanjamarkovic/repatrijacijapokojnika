@@ -1,0 +1,63 @@
+{
+  "slug": "bazel",
+  "parentCountry": "svajcarska",
+  "nameSr": "Bazel",
+  "nameLocal": "Basel",
+  "region": "Kanton Bazel-grad",
+  "h1": "Prevoz pokojnika iz Bazela u Srbiju",
+  "seoTitle": "Prevoz pokojnika iz Bazela u Srbiju | {{BRAND_NAME}}",
+  "seoDescription": "Prevoz pokojnika iz Bazela u Srbiju. Smrt se prijavljuje u registru kantona Bazel-grad. Kanton je na spisku Ambasade u Bernu. Cenu dobijate po upitu.",
+  "reviewed": "2026-09-23",
+  "summary": "Grad Bazel je kanton Bazel-grad, odvojen od kantona Bazel-okolina. Ambasada Srbije u Bernu navodi oba na svom spisku. Smrt u gradu prijavljuje se u registru tog kantona, ne u Cirihu. Cirih je na drugom spisku, kod konzulata u Cirihu. Prevoz u Srbiju je drumski. Dozvolu izdaje kanton polaska.",
+  "uniqueFacts": [
+    "Bazel-grad i Bazel-okolina su dva kantona. Oba stoje na spisku Ambasade u Bernu, ali registar smrti nije isti.",
+    "Kanton Cirih nije na bernskom spisku, pa Bazel ne deli predstavništvo sa Cirihom."
+  ],
+  "deathRegistration": {
+    "place": "Registar civilnog stanja kantona Bazel-grad",
+    "note": "Ako je smrt u kantonu Bazel-okolina, registar je taj kanton. Predstavništvo Srbije i dalje može biti ambasada u Bernu, jer su oba na njenom spisku."
+  },
+  "consulateOrEmbassy": {
+    "name": "Ambasada Republike Srbije u Bernu",
+    "url": "https://berne.mfa.gov.rs/",
+    "coversNote": "Stranica kontakta navodi Basel-Stadt i Basel-Landschaft u području ambasade."
+  },
+  "nearbyCitySlugs": [
+    "bern",
+    "cirih"
+  ],
+  "faq": [
+    {
+      "q": "Da li Bazel-okolina koristi isti registar kao grad?",
+      "a": "Ne. To su dva kantona, svaki sa svojim registrom. Oba su na spisku Ambasade Srbije u Bernu, pa predstavništvo može biti isto, a matični šalter nije."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kontakt i područje Ambasade u Bernu",
+      "publisher": "MSP Srbije",
+      "url": "https://berne.mfa.gov.rs/lat/gradjani/kontakt",
+      "retrieved": "2026-09-23",
+      "note": "Basel Stadt i Basel Landschaft su na spisku."
+    },
+    {
+      "title": "Ambasada Srbije u Bernu",
+      "publisher": "MSP Srbije",
+      "url": "https://berne.mfa.gov.rs/",
+      "retrieved": "2026-09-23",
+      "note": "Početna strana ambasade."
+    }
+  ],
+  "sectionOrder": [
+    "hero",
+    "local-facts",
+    "death-registration",
+    "mission",
+    "nearby",
+    "faq",
+    "sources",
+    "cta"
+  ],
+  "status": "published",
+  "nameSrGenitive": "Bazela"
+}

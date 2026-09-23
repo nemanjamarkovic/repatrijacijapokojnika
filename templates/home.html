@@ -1,0 +1,42 @@
+{{> shell-open}}
+<header class="page-hero" id="hero">
+  <p class="eyebrow">{{eyebrow}}</p>
+  <h1>{{h1}}</h1>
+  <p class="lead">{{summary}}</p>
+  <p class="reviewed">{{ui.reviewed}}: <time datetime="{{reviewed}}">{{reviewedDisplay}}</time></p>
+  <p class="disclaimer">{{disclaimer}}</p>
+</header>
+<section class="panel" id="key-facts" aria-labelledby="facts-title">
+  <h2 id="facts-title">{{ui.keyFactsTitle}}</h2>
+  <dl>
+    {{{factsHtml}}}
+  </dl>
+</section>
+<section class="panel" id="zemlje" aria-labelledby="origins-title">
+  <h2 id="origins-title">Zemlje polazišta</h2>
+  <ul class="card-grid card-list">
+    {{{originIndexHtml}}}
+  </ul>
+</section>
+<section class="panel" id="odredista" aria-labelledby="destinations-title">
+  <h2 id="destinations-title">Odredišta</h2>
+  <p>Glavni posao je prevoz u Srbiju. Ostale zemlje Balkana organizujemo kada porodica to traži.</p>
+  <ul class="card-grid card-list">
+    {{{destinationIndexHtml}}}
+  </ul>
+</section>
+<section class="panel" id="process" aria-labelledby="process-title">
+  <h2 id="process-title">Kako teče prevoz</h2>
+  <ol class="steps">
+    {{{stepsHtml}}}
+  </ol>
+  <p><a href="/kako-tece-prevoz/">Ceo tok, korak po korak</a></p>
+</section>
+<section class="panel" id="documents" aria-labelledby="documents-title">
+  <h2 id="documents-title">Dokumentacija</h2>
+  <p>Uz telo ide dozvola zemlje polaska. Naziv dokumenta nije isti u svakoj državi. Šta se obično traži, i link ka organu kada postoji stabilna stranica, stoji na posebnoj strani.</p>
+  <p><a href="/dokumentacija/">Dokumentacija za međunarodni prevoz</a></p>
+</section>
+{{> faq}}
+{{> cta}}
+{{> shell-close}}
