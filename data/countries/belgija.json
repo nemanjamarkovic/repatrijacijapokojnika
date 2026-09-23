@@ -29,8 +29,8 @@
       "nameLocal": "laissez-passer",
       "nameSr": "dozvola za međunarodni transport",
       "issuer": "FPS Foreign Affairs",
-      "url": "https://diplomatie.belgium.be/",
-      "practiceVsLaw": "Početna strana savezne diplomatije. Dozvolu za polazak izdaje organ u Belgiji, ne ova početna strana sama."
+      "url": "https://diplomatie.belgium.be/en",
+      "practiceVsLaw": "Engleska početna strana savezne diplomatije. Dozvolu za polazak izdaje organ u Belgiji, ne ova strana sama."
     }
   ],
   "familyMustProvide": [
@@ -63,9 +63,9 @@
     {
       "title": "FPS Foreign Affairs",
       "publisher": "Savezna javna služba spoljnih poslova Belgije",
-      "url": "https://diplomatie.belgium.be/",
+      "url": "https://diplomatie.belgium.be/en",
       "retrieved": "2026-09-23",
-      "note": "Početna strana diplomatije. Nije opštinski matični ured."
+      "note": "Engleska početna strana diplomatije. Nije opštinski matični ured. Adresa bez /en vodi na izbor jezika."
     },
     {
       "title": "Agreement on the Transfer of Corpses (ETS br. 080)",

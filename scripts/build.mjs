@@ -1212,7 +1212,8 @@ async function checkExternal() {
           warn(`Source ${url} returned ${response.status}`);
       } catch (error) {
         results.push({ url, status: 0, error: error.name });
-        fail(`Source ${url} failed: ${error.name}`);
+        const detail = error.cause?.code || error.cause?.message || error.message;
+        fail(`Source ${url} failed: ${error.name}${detail ? ` (${detail})` : ""}`);
       } finally {
         clearTimeout(timer);
       }
